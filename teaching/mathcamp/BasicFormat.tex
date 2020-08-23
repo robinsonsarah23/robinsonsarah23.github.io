@@ -1,0 +1,111 @@
+%Document Class
+	\documentclass{article}
+	
+%Packages
+	\usepackage{amsmath}	%Enables math stuff
+	\usepackage{amssymb}	%Enables math stuff
+	\usepackage[margin=0.75 in]{geometry}	% Affects document settings
+	
+%Other Document Settings
+	\setlength\parindent{0pt}	%Sets paragraph indent
+	\renewcommand{\arraystretch}{1.25}	%Sets vertical spacing between lines in a table
+
+%Document
+\begin{document}
+
+
+Name\\
+Course\\
+Date \\[10pt]
+
+\begin{enumerate}
+%%%%%%%%%%%%%
+%PROBLEM ONE%
+%%%%%%%%%%%%%
+\item\textbf{This is where the text goes for question one. What is 2+2+2?} \\[5pt]
+	I'm going to do some simple addition as an example.
+	\begin{align*} %Opens an align environment. Document won't compile if there are any empty lines within the align environment!
+	2 + 2 + 2 & = (2 + 2) + 2 &\text{(by associativity)} \\ %Within a math environment (such as align), math mode is the default so you need to use \text{} for words
+	& = 4 + 2 & \text{(adding inside the parentheses)} \\
+	& \boxed{ = 6} & \text{(by simple addition)} %Puts a box around the answer
+	\end{align*}
+	This completes the first ``problem." 
+	
+	\vspace{10pt} %Creates vertical space before the next problem
+
+%%%%%%%%%%%%%
+%PROBLEM TWO%
+%%%%%%%%%%%%%
+\item\textbf{This is where the text goes for question two.}
+	\begin{enumerate}
+		\item\textbf{Question two, subpart (a).}
+		\item\textbf{Question two, subpart (b).}
+	\end{enumerate}
+	
+	\vspace{20pt}
+	
+%%%%%%%%%%%%%
+%TRUTH TABLE%
+%%%%%%%%%%%%%
+\item\textbf{Example Truth Table}
+	\begin{center}
+			\begin{tabular}{c c c c} %Opens a tabular environment, for a table with 4 columns that are center-spaced
+				$P$		&$Q$		&$\neg P$	&$\neg Q$	\\ %If you aren't in a math environment, use $math stuff$ to get to math mode
+				\hline
+				T		&T		&F			&F			\\
+				T		&F		&F			&T			\\
+				F		&T		&T			&F			\\
+				F		&F		&T			&T					
+		\end{tabular}
+	\end{center}
+
+	\vspace{10pt}
+
+
+%%%%%%%%%%%%%
+%Proof%
+%%%%%%%%%%%%%
+
+\item\textbf{Example Proof}
+
+	\underline{To Show:} $R$ \\
+	\underline{Proof:} 
+	\begin{align*}
+		& \text{Let P} & \text{(by hypothesis)} \\
+		& \implies Q & \text{(Theorem 1)} \\
+		& \implies R & \text{(Theorem 2)} \\
+		&& \blacksquare \\
+	\end{align*}
+
+	\vspace{10pt}
+
+%%%%%%%%%%%%%
+%Equation Mode%
+%%%%%%%%%%%%%
+
+\item\textbf{Example Equation Mode}
+
+	\[ \mathbb{R}^+ = \{ x \mid ( x \in \mathbb{R} ) \wedge (x \geq 0)  \} \]
+	%To create an equation that's centered on its own line, use \[ math stuff \] to get to math mode
+	\[ y = \frac{1}{2} \hspace{20mm} 55 = \sum_{i = 1}^{10} i \hspace{10mm} \hspace{10mm} \hat{\beta} = (\mathbf{X'X})^{-1} \mathbf{X'Y} \]  %Fractions, summations, and matrix notation
+	
+	\vspace{10pt}
+
+
+%%%%%%%%%%%%%
+%Matrices%
+%%%%%%%%%%%%%
+
+\item\textbf{Example Matrices}
+
+
+	\[
+	A=\begin{bmatrix} 1 & 2 \\ 3 & 4\end{bmatrix} 	
+	\hspace{10mm}  
+	B=\begin{bmatrix} b_{11} & b_{12} \\ b_{21} & b_{22} \\ b_{31} &  b_{32} \end{bmatrix} 	
+	\]
+
+
+\end{enumerate}
+
+\end{document}
