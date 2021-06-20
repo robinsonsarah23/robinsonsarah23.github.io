@@ -2,8 +2,7 @@
 layout: default
 ---
 
-
-<br><br>
+<br>
 
 
 <img src="./assets/images/profile.jpg" alt="profile" width="200"/>{: style="float: left"}
@@ -13,9 +12,10 @@ layout: default
 
 <br clear="left"/>
 
+
 #### Contact Information:
-<img src="./assets/images/email.png" width="15"/> &nbsp; sarahrobinson [at] ucsb [dot] edu <br>
-<img src="./assets/images/twitter.png" width="15"/> &nbsp; <a href="https://twitter.com/RobinsonSarah_" > @RobinsonSarah_</a>
+<img src="./assets/images/email.png" width="20"/> &nbsp; sarahrobinson [at] ucsb [dot] edu <br>
+<img src="./assets/images/twitter.png" width="20"/> &nbsp; <a href="https://twitter.com/RobinsonSarah_" > @RobinsonSarah_</a>
 
 
 ### Research
