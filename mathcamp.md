@@ -41,4 +41,4 @@ layout: default
 
 <br>
 
-[*Back to Home*](./)
+[[Back to Home]](./)
