@@ -6,7 +6,7 @@ layout: default
 
 
 <img src="./assets/images/profile.jpg" alt="profile" width="200"/>{: style="float: left"}
-<p style="margin-left: 220px">I am a PhD Candidate in Economics at the University of California Santa Barbara. I am currently a NBER Pre-Doctoral Fellow in Aging and Health.</p> 
+<p style="margin-left: 220px">I am a PhD Candidate in Economics at the University of California Santa Barbara, and a NBER Pre-Doctoral Fellow in Aging and Health.</p> 
 
 <p style="margin-left: 220px">My research focuses on health economics and public economics. You can find my CV <a href="./CV.pdf">here</a>.</p>
 
