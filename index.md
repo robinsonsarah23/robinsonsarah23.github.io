@@ -25,4 +25,6 @@ layout: default
 
 
 ### Resources
-[Math Camp Teaching Materials](./mathcamp.html)
+[Math Camp Teaching Materials](./mathcamp.html) <br>
+<a href="./assets/210A Study Guide v39.pdf">210A Study Guide </a> (<a href="./assets/210A v39.zip" download>LaTeX</a>) -- 1st Year Fall Micro (Consumption & Production) <br>
+<a href="./assets/210B Study Guide v18.pdf">210B Study Guide </a> (<a href="./assets/210B Study Guide v18.tex" download>LaTeX</a>) -- 1st Year Winter Micro (Game Theory) <br>
