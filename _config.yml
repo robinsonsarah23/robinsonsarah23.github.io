@@ -5,3 +5,8 @@ subtitle2: University of California Santa Barbara
 show_downloads: true
 google_analytics: G-VGDK4HLWCX
 theme: jekyll-theme-dinky
+url: "https://www.s-robinson.com"
+plugins:
+  - jekyll-sitemap
+whitelist:
+  - jekyll-sitemap
