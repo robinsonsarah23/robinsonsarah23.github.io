@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /teaching/mathcamp
 ---
 
 # Math Camp for Incoming PhD Students
