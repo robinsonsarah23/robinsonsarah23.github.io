@@ -17,6 +17,11 @@ layout: default
 <img src="./assets/images/email.png" width="20"/> &nbsp; sarahrobinson [at] ucsb [dot] edu <br>
 <img src="./assets/images/twitter.png" width="20"/> &nbsp; <a href="https://twitter.com/RobinsonSarah_" > @RobinsonSarah_</a>
 
+#### Education & Key Experience:
+<img src="./assets/images/education.png" width="20" /> &nbsp; PhD in Economics, UC Santa Barbara (*In Progress*) <br>
+<img src="./assets/images/education.png" width="20"/> &nbsp; MA in Economics, UC Santa Barbara (2018) <br>
+<img src="./assets/images/work.png" width="20" height="15" /> &nbsp; Deloitte Consulting LLP, Strategy & Operations <br>
+<img src="./assets/images/education.png" width="20"/> &nbsp; BA in Philosophy, Politics, and Economics, Claremont McKenna College (2013) <br>
 
 ### Research
 *The Effect of Medicaid Managed Care on Hospital Use and Spending*
@@ -26,5 +31,5 @@ layout: default
 
 ### Resources
 * [Math Camp Teaching Materials](./teaching/mathcamp) <br>
-* <a href="./assets/210A Study Guide v39.pdf">210A Study Guide </a> \| <a href="./assets/210A v39.zip" download>LaTeX</a> -- 1st Year Micro Fall (Consumption & Production) <br>
-* <a href="./assets/210B Study Guide v18.pdf">210B Study Guide </a> \| <a href="./assets/210B Study Guide v18.tex" download>LaTeX</a> -- 1st Year Micro Winter (Game Theory) <br>
+* <a href="./assets/210A Study Guide v39.pdf">ECON 210A Study Guide </a> \| <a href="./assets/210A v39.zip" download>LaTeX</a> -- 1st Year Micro Fall (Consumption & Production) <br>
+* <a href="./assets/210B Study Guide v18.pdf">ECON 210B Study Guide </a> \| <a href="./assets/210B Study Guide v18.tex" download>LaTeX</a> -- 1st Year Micro Winter (Game Theory) <br>
