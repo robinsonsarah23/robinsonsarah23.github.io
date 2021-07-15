@@ -21,7 +21,7 @@ permalink: /teaching/mathcamp/
 <a href="/teaching/mathcamp/2 - Sets Reference.pdf">Set Theory (for reference)</a><br><br>
 <a href="/teaching/mathcamp/3 - Relations Class.pdf">Relations (class notes)</a><br>
 <a href="/teaching/mathcamp/3 - Relations Reference.pdf">Relations (for reference)</a><br><br>
-<a href="https://web.stanford.edu/~jdlevin/Econ%20202/UsefulMath.pdf">*Useful Math for Microeconomics*</a> by Jonathan Levin & Antonio Rangel <br>(additional reference for Relations onward)<br><br>
+<a href="https://web.stanford.edu/~jdlevin/Econ%20202/UsefulMath.pdf">*Useful Math for Microeconomics*</a> by&nbsp;Jonathan&nbsp;Levin & Antonio&nbsp;Rangel <br>(additional&nbsp;reference for Relations&nbsp;onward)<br><br>
 <a href="/teaching/mathcamp/PS A1 - Logic and Sets.pdf">Problem Set A1</a><br>
 
 ### Week 2
