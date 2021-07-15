@@ -3,19 +3,26 @@
 
 @import 'jekyll-theme-dinky';
 
+// Stop resizing in landscape on mobile
+html {
+	-webkit-text-size-adjust: 100%;
+}
+
 //Body text size
 body {
 	font-size: 15px;
 }
 
-// Margin around headers
-h1, h2, h3, h4, h5, h6 {
+// Margin, weight for larger headers
+h1, h2, h3 {
   margin:48px 0 10px;
+  font-weight: 500;
 }
 
-//Headers weight
-h1, h2, h3 {
-  font-weight: 500;
+// Margin, weight for smaller headers
+h4, h5, h6 {
+  margin: 24px 0 10px;
+  font-weight: 525;
 }
 
 // Hyperlink color and font weight
@@ -122,11 +129,11 @@ footer {
 		padding:0;
 	}
 
-  header {
-    padding-right:320px;
-  }
+ header {
+	padding-left: 75px
+ } 
 
-  section {
+ section {
     padding:20px 84px 20px 50px;
     margin:0 0 20px;
   }
@@ -135,10 +142,8 @@ footer {
     display:inline;
   }
 
-  header ul {
-    position:absolute;
-    right:130px;
-    top:84px;
+  header ul, header p.view{
+    position:static;
   }
 }
 
@@ -148,18 +153,19 @@ footer {
   }
 
   header {
-    padding:10px 20px 0;
-		margin-right: 0;
+  	padding:30px 0px 10px 50px;
+	margin-right: 0;
   }
 
-	section {
+  section {
     padding:10px 0 10px 20px;
     margin:0 0 30px;
   }
 
-	footer {
-		margin: 0 0 0 30px;
-	}
+  footer {
+    margin: 0px 0px 0px 20px;
+ }
+
 
   header ul, header p.view {
     position:static;
@@ -168,24 +174,27 @@ footer {
 
 @media print, screen and (max-width: 480px) {
 
-  header ul li.download {
-    display:none;
-  }
-
-	footer {
-		margin: 0 0 0 20px;
-	}
-
-	footer a{
-		display:block;
-	}
-
 }
 
 @media print {
   body {
-    padding:0.4in;
-    font-size:12pt;
+    padding:0.5in;
+    font-size:9pt;
     color:#444;
   }
+
+  header {
+    color: #003362;
+    background-color: #ffffff 
+  }
+
+ p.header {
+  margin: 0px 0px 10px 0px;
+ }
+
+ h1.header {
+  color: #003362;
+ margin: 0px 0px -15px 0px;
+ }
+
 }
