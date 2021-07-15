@@ -18,10 +18,10 @@ layout: default
 <img src="./assets/images/twitter.png" width="20"/> &nbsp; <a href="https://twitter.com/RobinsonSarah_" > @RobinsonSarah_</a>
 
 #### Education & Key Experience:
-<img src="./assets/images/education.png" width="20" /> &nbsp; PhD in Economics, UC Santa Barbara (*In&nbsp;Progress*) <br>
-<img src="./assets/images/education.png" width="20"/> &nbsp; MA in Economics, UC Santa Barbara (2018) <br>
-<img src="./assets/images/work.png" width="20" height="15" /> &nbsp; Deloitte Consulting LLP, Strategy&nbsp;&&nbsp;Operations <br>
-<img src="./assets/images/education.png" width="20"/> &nbsp; BA in Philosophy, Politics, and Economics, Claremont&nbsp;McKenna&nbsp;College (2013) <br>
+<img src="./assets/images/education.png" width="20" /> &nbsp; PhD&nbsp;in&nbsp;Economics, UC&nbsp;Santa&nbsp;Barbara&nbsp;(*In&nbsp;Progress*) <br>
+<img src="./assets/images/education.png" width="20"/> &nbsp; MA&nbsp;in&nbsp;Economics, UC&nbsp;Santa&nbsp;Barbara&nbsp;(2018) <br>
+<img src="./assets/images/work.png" width="20" height="15" /> &nbsp; Deloitte&nbsp;Consulting&nbsp;LLP, Strategy&nbsp;&&nbsp;Operations <br>
+<img src="./assets/images/education.png" width="20"/> &nbsp; BA&nbsp;in&nbsp;Philosophy, Politics,&nbsp;and&nbsp;Economics, Claremont&nbsp;McKenna&nbsp;College&nbsp;(2013) <br>
 
 ### Research
 *The Effect of Medicaid Managed Care on Hospital Use and Spending*
