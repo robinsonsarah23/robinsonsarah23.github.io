@@ -42,4 +42,8 @@ permalink: /teaching/mathcamp/
 
 <br>
 
-[[Back to Home]](/)
+[**[Back to Home]**](/)
+
+<br>
+<br>
+<br>

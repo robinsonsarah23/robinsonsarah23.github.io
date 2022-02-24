@@ -19,12 +19,12 @@ layout: default
 
 #### Education & Key Experience:
 <img src="./assets/images/education.png" width="20" /> &nbsp; PhD&nbsp;in&nbsp;Economics, UC&nbsp;Santa&nbsp;Barbara&nbsp;(*In&nbsp;Progress*) <br>
-<img src="./assets/images/education.png" width="20"/> &nbsp; MA&nbsp;in&nbsp;Economics, UC&nbsp;Santa&nbsp;Barbara&nbsp;(2018)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<img src="./assets/images/education.png" width="20"/> &nbsp; MA&nbsp;in&nbsp;Economics, UC&nbsp;Santa&nbsp;Barbara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 <img src="./assets/images/work.png" width="20" height="15" /> &nbsp; Deloitte&nbsp;Consulting&nbsp;LLP, Strategy&nbsp;&&nbsp;Operations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-<img src="./assets/images/education.png" width="20"/> &nbsp; BA&nbsp;in&nbsp;Philosophy, Politics,&nbsp;and&nbsp;Economics, Claremont&nbsp;McKenna&nbsp;College&nbsp;(2013) <br>
+<img src="./assets/images/education.png" width="20"/> &nbsp; BA&nbsp;in&nbsp;Philosophy, Politics,&nbsp;and&nbsp;Economics, Claremont&nbsp;McKenna&nbsp;College&nbsp; <br>
 
 ### Research
-"What Drives Tax Policy? Political and Economic Determinants of State Tax Policy in the Past 70 Years" (with&nbsp;[Alisa&nbsp;Tazhitdinova](https://alisatns.weebly.com)) [**[LINK]**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4035979)
+"What Drives Tax Policy? Political and Economic Determinants of State Tax Policy in the Past 70 Years" (with&nbsp;[Alisa&nbsp;Tazhitdinova](https://alisatns.weebly.com)) [**[link]**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4035979)
 > We study U.S. state tax rules over the past 70 years to shed light on the determinants of U.S. state tax policy, generating three key results. First, we show that long-term tax trends are not consistent with Tiebout sorting and race-to-the-bottom competition models. Second, we document evidence of increasing polarization of tax rates between Democratic and Republican states in the 1970s and from 2000 onward. Third, we use machine learning techniques to show that the timing and magnitude of tax changes are not driven by federal changes, economic needs, state politics, institutional rules, neighbor competition, or demo- graphics. Altogether, these factors explain less than 20% of observed tax variation.
 
 "The Effect of Medicaid Managed Care on Hospital Use and Spending"
