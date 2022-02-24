@@ -1,0 +1,15 @@
+How to update
+
+Terminal: cd /Users/SarahRobinson/Documents/GitHub/robinsonsarah23.github.io
+
+Make changes to .md
+
+Terminal: bundle exec jekyll serve
+
+Preview at http://localhost:4000
+
+Terminal: control-C
+
+Update GitHub 
+
+

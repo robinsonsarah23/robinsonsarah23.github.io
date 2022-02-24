@@ -24,12 +24,17 @@ layout: default
 <img src="./assets/images/education.png" width="20"/> &nbsp; BA&nbsp;in&nbsp;Philosophy, Politics,&nbsp;and&nbsp;Economics, Claremont&nbsp;McKenna&nbsp;College&nbsp;(2013) <br>
 
 ### Research
-*The Effect of Medicaid Managed Care on Hospital Use and Spending*
+"What Drives Tax Policy? Political and Economic Determinants of State Tax Policy in the Past 70 Years" (with&nbsp;[Alisa&nbsp;Tazhitdinova](https://alisatns.weebly.com)) [**[LINK]**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4035979)
+> We study U.S. state tax rules over the past 70 years to shed light on the determinants of U.S. state tax policy, generating three key results. First, we show that long-term tax trends are not consistent with Tiebout sorting and race-to-the-bottom competition models. Second, we document evidence of increasing polarization of tax rates between Democratic and Republican states in the 1970s and from 2000 onward. Third, we use machine learning techniques to show that the timing and magnitude of tax changes are not driven by federal changes, economic needs, state politics, institutional rules, neighbor competition, or demo- graphics. Altogether, these factors explain less than 20% of observed tax variation.
 
-*What Drives Tax Policy? Political and Economic Determinants of State Tax Policy in the Past 40 Years* (with&nbsp;[Alisa&nbsp;Tazhitdinova](https://alisatns.weebly.com))
+"The Effect of Medicaid Managed Care on Hospital Use and Spending"
+
+
 
 
 ### Resources
 * [Math Camp Teaching Materials](./teaching/mathcamp) <br>
 * <a href="./assets/210A Study Guide v39.pdf">ECON 210A Study Guide </a> \| <a href="./assets/210A v39.zip" download>LaTeX</a> -- 1st&nbsp;Year&nbsp;Micro&nbsp;Fall (Consumption&nbsp;&&nbsp;Production) <br>
 * <a href="./assets/210B Study Guide v18.pdf">ECON 210B Study Guide </a> \| <a href="./assets/210B Study Guide v18.tex" download>LaTeX</a> -- 1st&nbsp;Year&nbsp;Micro&nbsp;Winter (Game&nbsp;Theory)<br>
+<br>
+<br>
