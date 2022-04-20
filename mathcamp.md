@@ -2,6 +2,7 @@
 layout: default
 permalink: /teaching/mathcamp/
 ---
+[**<---  Back to Home**](/)
 
 # Math Camp for Incoming PhD Students
 <p style="font-size:18px;"><em>Logic, Real Analysis, and Optimization</em></p>   
@@ -42,7 +43,7 @@ permalink: /teaching/mathcamp/
 
 <br>
 
-[**[Back to Home]**](/)
+[**<---  Back to Home**](/)
 
 <br>
 <br>

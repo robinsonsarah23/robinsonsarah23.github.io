@@ -14,7 +14,7 @@ layout: default
 
 
 #### Contact Information:
-<img src="./assets/images/email.png" width="20"/> &nbsp; sarahrobinson [at] ucsb [dot] edu <br>
+<img src="./assets/images/email.png" width="20"/> &nbsp; sarahrobinson@ucsb.edu <br>
 <img src="./assets/images/twitter.png" width="20"/> &nbsp; <a href="https://twitter.com/RobinsonSarah_" > @RobinsonSarah_</a>
 
 #### Education & Key Experience:
@@ -24,8 +24,13 @@ layout: default
 <img src="./assets/images/education.png" width="20"/> &nbsp; BA&nbsp;in&nbsp;Philosophy, Politics,&nbsp;and&nbsp;Economics, Claremont&nbsp;McKenna&nbsp;College&nbsp; <br>
 
 ### Research
-"What Drives Tax Policy? Political and Economic Determinants of State Tax Policy in the Past 70 Years" (with&nbsp;[Alisa&nbsp;Tazhitdinova](https://alisatns.weebly.com)) [**[link]**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4035979)
-> We study U.S. state tax rules over the past 70 years to shed light on the determinants of U.S. state tax policy, generating three key results. First, we show that long-term tax trends are not consistent with Tiebout sorting and race-to-the-bottom competition models. Second, we document evidence of increasing polarization of tax rates between Democratic and Republican states in the 1970s and from 2000 onward. Third, we use machine learning techniques to show that the timing and magnitude of tax changes are not driven by federal changes, economic needs, state politics, institutional rules, neighbor competition, or demo- graphics. Altogether, these factors explain less than 20% of observed tax variation.
+["What Drives Tax Policy? Political and Economic Determinants of State Tax Policy in the Past 70 Years"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4035979) (with&nbsp;[Alisa&nbsp;Tazhitdinova](https://alisatns.weebly.com))
+> We study U.S. state tax rules over the past 70 years to shed light on the determinants of U.S. state tax policy, generating three key results. First, we show that long-term tax trends are not consistent with Tiebout sorting and race-to-the-bottom competition models. Second, we document evidence of increasing polarization of tax rates between Democratic and Republican states in the 1970s and from 2000 onward. Third, we use machine learning techniques to show that the timing and magnitude of tax changes are not driven by federal changes, economic needs, state politics, institutional rules, neighbor competition, or demographics. Altogether, these factors explain less than 20% of observed tax variation.
+
+["Does Independent Political Spending Affect State Tax Policies, Revenues and Expenditures?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4083336) (with&nbsp;[Alisa&nbsp;Tazhitdinova](https://alisatns.weebly.com))
+> We study to what extent U.S. state tax policy, tax revenues and expenditures are affected by independent political contributions. Using the Citizens United v. Federal Election Commission ruling for identification, we study tax policy outcomes in states where independent spending by corporations and/or unions on political campaigns was suddenly allowed, compared to unaffected states. Ten years after the ruling and for a wide range of outcomes, we are not able to identify economically or statistically significant effects of unlimited independent political contributions on tax outcomes. While our results do not rule out the possibility of changes in tax handouts on a firm-by-firm basis, such effects are not large relative to the regular fluctuations of state tax rates, revenues or expenditures.
+
+"The Effect of State Insurance Mandates on Employers' Choice to Self Insure"
 
 "The Effect of Medicaid Managed Care on Hospital Use and Spending"
 
