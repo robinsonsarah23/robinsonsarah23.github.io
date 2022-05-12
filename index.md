@@ -30,9 +30,10 @@ layout: default
 ["Does Independent Political Spending Affect State Tax Policies, Revenues and Expenditures?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4083336) (with&nbsp;[Alisa&nbsp;Tazhitdinova](https://alisatns.weebly.com))
 > We study to what extent U.S. state tax policy, tax revenues and expenditures are affected by independent political contributions. Using the Citizens United v. Federal Election Commission ruling for identification, we study tax policy outcomes in states where independent spending by corporations and/or unions on political campaigns was suddenly allowed, compared to unaffected states. Ten years after the ruling and for a wide range of outcomes, we are not able to identify economically or statistically significant effects of unlimited independent political contributions on tax outcomes. While our results do not rule out the possibility of changes in tax handouts on a firm-by-firm basis, such effects are not large relative to the regular fluctuations of state tax rates, revenues or expenditures.
 
-"The Effect of State Insurance Mandates on Employers' Choice to Self Insure"
+"Geographic Variation in C-Sections in the United States: Trends, Correlates and Other Interesting Facts" (with&nbsp;[Heather&nbsp;Royer](https://sites.google.com/site/heathernroyer/)&nbsp;and&nbsp;[David&nbsp;Silver](https://sites.google.com/site/silverdw/))
 
-"The Effect of Medicaid Managed Care on Hospital Use and Spending"
+
+"The Effect of State Insurance Mandates on Employers' Choice to Self&nbsp;Insure"
 
 
 
