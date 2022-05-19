@@ -14,3 +14,5 @@ Terminal: control-C
 Update GitHub and wait a few minutes
 
 
+
+Make sure to run bundle after adding/deleting files (to update sitemap)
