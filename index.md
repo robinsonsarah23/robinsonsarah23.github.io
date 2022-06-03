@@ -45,8 +45,8 @@ Teaching Materials
 &nbsp;&nbsp;&nbsp;&nbsp;-- &nbsp;&nbsp;[PhD Math Camp](./teaching/mathcamp)
 
 Study Guides  
-&nbsp;&nbsp;&nbsp;&nbsp;-- &nbsp;&nbsp;<a href="./assets/210A Study Guide v39.pdf">ECON 210A PDF </a> \| <a href="./resources/210A v39.zip" download>LaTeX</a> (1st&nbsp;Year&nbsp;Micro&nbsp;Fall -- Consumption&nbsp;&&nbsp;Production)  
- &nbsp;&nbsp;&nbsp;&nbsp;-- &nbsp;&nbsp;<a href="./assets/210B Study Guide v18.pdf">ECON 210B PDF </a> \| <a href="./resources/210B Study Guide v18.tex" download>LaTeX</a> (1st&nbsp;Year&nbsp;Micro&nbsp;Winter -- Game&nbsp;Theory)  
+&nbsp;&nbsp;&nbsp;&nbsp;-- &nbsp;&nbsp;<a href="./resources/210A Study Guide v39.pdf">ECON 210A PDF </a> \| <a href="./resources/210A v39.zip" download>LaTeX</a> (1st&nbsp;Year&nbsp;Micro&nbsp;Fall -- Consumption&nbsp;&&nbsp;Production)  
+ &nbsp;&nbsp;&nbsp;&nbsp;-- &nbsp;&nbsp;<a href="./resources/210B Study Guide v18.pdf">ECON 210B PDF </a> \| <a href="./resources/210B Study Guide v18.tex" download>LaTeX</a> (1st&nbsp;Year&nbsp;Micro&nbsp;Winter -- Game&nbsp;Theory)  
 
 <br>
 <br>
