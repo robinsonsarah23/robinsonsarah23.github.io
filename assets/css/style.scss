@@ -2,33 +2,103 @@
 ---
 
 @import 'jekyll-theme-dinky';
+@import url('https://fonts.googleapis.com/css?family=Lora');
+
 
 // Stop resizing in landscape on mobile
 html {
 	-webkit-text-size-adjust: 100%;
 }
 
-//Body text size
+// Margin, weight, font for larger headers
+h1, h2, h3 {
+	margin:48px 0 20px;
+	font-weight: 700;
+	font-family: Lora;
+}
+
+// Margin, weight, font for smaller headers
+h4, h5, h6 {
+	margin: 36px 0 6px;
+	font-weight: 700;
+	font-family: Lora;
+}
+
+// Body text size, background color, text color
 body {
 	font-size: 15px;
+	background-color: #FFFFFF;
 }
 
-// Margin, weight for larger headers
-h1, h2, h3 {
-  margin:48px 0 10px;
-  font-weight: 500;
+// Special indent paragraph
+p.indent {
+	margin-left: 60px;
+	margin-bottom: 2px;
+	text-indent: -45px;
 }
 
-// Margin, weight for smaller headers
-h4, h5, h6 {
-  margin: 24px 0 10px;
-  font-weight: 525;
+// Spacing on bullet list
+ul {
+	margin-top: -1.3em;
+	margin-left: 8px;
+}
+
+// h1 text size
+h1 {
+	font-size: 30px;
+}
+
+// h2 text size
+h2 {
+	font-size: 20px;
+}
+
+// h4 text size
+h4 {
+	font-size: 16px;
+}
+
+// h1 in sidebar text
+h1.header {
+	font-family: Lora;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 1.3em;
+	border-bottom: none;
+	margin-top: 0;
+	margin-bottom: 35px;
+}
+
+// body in sidebar text
+p.header {
+	font-family: Lora;
+	font-weight: 700;
+}
+
+// buttons in sidebar spacing
+header ul {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 0px;
+}
+
+// Blockquote format
+blockquote {
+	margin-left: 15px;
+	margin-bottom: 40px;
+	margin-top: -8px;
+	margin-right: 0px;
+	padding: 0 0 0 15px;
+	font-style: italic;
+	border-left: 1px solid #ccc;
+	line-height: 1.5em;
+	font-size: 14px;
 }
 
 // Hyperlink color and font weight
 a {
   color:#003362;
-  font-weight:400;
+  font-weight:420;
 }
 
 // Max width of whole page
@@ -38,7 +108,7 @@ a {
 
 // Width, alignment, padding of main content
 section {
-  width:700px;
+  width:740px;
   position:absolute;
   margin: auto;
   left: 375px;
@@ -53,7 +123,7 @@ section {
 // Side box center and edge color, width
 header {
 	background-color: #003362;
-	color: #FDFDFB;
+	color: #FFFFFF;
   	width:200px;
   	float:left;
   	position:fixed;
@@ -64,7 +134,7 @@ header {
 	-moz-border-radius-bottomright: 4px;
 	border-top-right-radius: 4px;
 	border-bottom-right-radius: 4px;
-	padding: 50px 50px 90px 75px;
+	padding: 50px 50px 20px 75px;
 	margin: 30px 25px 0 0;
 	-webkit-font-smoothing: antialiased;
 }
@@ -118,6 +188,13 @@ footer {
 }
 
 
+
+
+
+
+
+
+// ORIENTATION AND SPACING BY SCREEN TYPE
 
 @media print, screen and (max-width: 1450px) {
   section {

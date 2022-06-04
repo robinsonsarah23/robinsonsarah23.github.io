@@ -15,12 +15,15 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1 class="header">{{ site.title }}</h1><br>
+        <h1 class="header">{{ site.title }}</h1>
         <p class="header">{{ site.subtitle1 }}</p>
-        <p class="header">{{ site.subtitle2 }}</p><br>
-        <ul style="margin-top:-20px;">
+        <p class="header">{{ site.subtitle2 }}</p>
+        <ul>
           <li ><a class="buttons" href="./Robinson_CV.pdf">CV</a></li>
         </ul>
+        {% if page.label=="nothome" %}
+        <p class="header">  <a href="/"><img src="/assets/images/back.png" width="30" />&nbsp;&nbsp;Home</a></p>
+        {% endif %}
       </header>
 
       <section>
@@ -28,7 +31,7 @@
       </section>
 
       <footer> 
-        <p style="font-size:13px;">Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
+        <p style="font-size:13px;line-height: 1.6em;">Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
       </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
