@@ -15,14 +15,14 @@ label: home
 
 
 #### Contact Information:
-<p class="indent"><img src="./assets/images/email.png" alt="" width="20" height="14"/> &nbsp; sarahrobinson@ucsb.edu </p>
-<p class="indent"><img src="./assets/images/twitter.png" alt="" width="20" height="16"/> &nbsp; <a href="https://twitter.com/RobinsonSarah_" > @RobinsonSarah_</a></p>
+<p class="indent"><img src="./assets/images/email.png" alt="" width="25" height="18"/> &nbsp; sarahrobinson@ucsb.edu </p>
+<p class="indent"><img src="./assets/images/twitter.png" alt="" width="25" height="21"/> &nbsp; <a href="https://twitter.com/RobinsonSarah_" > @RobinsonSarah_</a></p>
 
 #### Education & Experience:
-<p class="indent"><img src="./assets/images/education.png" alt="" width="20" height="14" /> &nbsp; PhD&nbsp;in&nbsp;Economics, UC&nbsp;Santa&nbsp;Barbara&nbsp;<em>(In&nbsp;Progress)</em></p>
-<p class="indent"><img src="./assets/images/education.png" alt="" width="20" height="14"/> &nbsp; MA&nbsp;in&nbsp;Economics, UC&nbsp;Santa&nbsp;Barbara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p class="indent"><img src="./assets/images/work.png" alt="" width="20" height="15" /> &nbsp; Deloitte&nbsp;Consulting&nbsp;LLP, Strategy&nbsp;&&nbsp;Operations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p class="indent"><img src="./assets/images/education.png" alt="" width="20" height="14"/> &nbsp; BA&nbsp;in&nbsp;Philosophy, Politics,&nbsp;and&nbsp;Economics, Claremont&nbsp;McKenna&nbsp;College&nbsp;</p>
+<p class="indent"><img src="./assets/images/education.png" alt="" width="25" height="21" /> &nbsp; PhD&nbsp;in&nbsp;Economics, UC&nbsp;Santa&nbsp;Barbara&nbsp;<em>(In&nbsp;Progress)</em></p>
+<p class="indent"><img src="./assets/images/education.png" alt="" width="25" height="21"/> &nbsp; MA&nbsp;in&nbsp;Economics, UC&nbsp;Santa&nbsp;Barbara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p class="indent"><img src="./assets/images/work.png" alt="" width="25" height="19" /> &nbsp; Deloitte&nbsp;Consulting&nbsp;LLP, Strategy&nbsp;&&nbsp;Operations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p class="indent"><img src="./assets/images/education.png" alt="" width="25" height="21"/> &nbsp; BA&nbsp;in&nbsp;Philosophy, Politics,&nbsp;and&nbsp;Economics, Claremont&nbsp;McKenna&nbsp;College&nbsp;</p>
 
 
 ## Working Papers
@@ -49,7 +49,13 @@ Teaching Materials
 
 Study Guides
 * <a href="./resources/210A Study Guide v39.pdf">ECON 210A PDF </a> \| <a href="./resources/210A v39.zip" download>LaTeX</a> &nbsp; (1st&nbsp;Year&nbsp;Micro&nbsp;Fall -- Consumption &&nbsp;Production)  
-* <a href="./resources/210B Study Guide v18.pdf">ECON 210B PDF </a> \| <a href="./resources/210B Study Guide v18.tex" download>LaTeX</a> &nbsp; (1st&nbsp;Year&nbsp;Micro&nbsp;Winter -- Game&nbsp;Theory)  
+* <a href="./resources/210B Study Guide v18.pdf">ECON 210B PDF </a> \| <a href="./resources/210B Study Guide v18.tex" download>LaTeX</a> &nbsp; (1st&nbsp;Year&nbsp;Micro&nbsp;Winter -- Game&nbsp;Theory) 
+
+<br>
+<br>
+
+---
+*&copy; Sarah Robinson 2020. Click [here](./copyright) for attributions.*
 
 <br>
 <br>
