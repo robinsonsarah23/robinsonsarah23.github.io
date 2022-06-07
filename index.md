@@ -39,7 +39,7 @@ label: home
 "The Effect of State Insurance Mandates on Employers' Choice to Self&nbsp;Insure"
 
 "Employer Choice of Health Insurance Plans and Premium&nbsp;Sharing" <br>
-*(approved by the Census Bureau; pending IRS&nbsp;review)*
+*(proposal approved by the Census Bureau; pending IRS&nbsp;review)*
 
 
 ## Resources

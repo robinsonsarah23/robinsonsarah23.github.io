@@ -18,7 +18,7 @@ Style modified from the [Dinky theme](https://github.com/pages-themes/dinky)
 
 Icons from [the Noun Project](http://thenounproject.com/)
 * "Email" by Aybige
-* "Graduation Hat by SUBAIDA"
+* "Graduation Hat" by SUBAIDA
 * "Briefcase" by Creative Stall
 * "Undo Action" by Icon Solid  
 
