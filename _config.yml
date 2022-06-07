@@ -6,7 +6,7 @@ google_analytics: UA-200546079-1
 remote_theme: pages-themes/dinky@v0.2.0
 url: "https://www.s-robinson.com"
 plugins:
-  - jekyll-sitemap
   - jekyll-remote-theme
+  - jekyll-sitemap
 whitelist:
   - jekyll-sitemap

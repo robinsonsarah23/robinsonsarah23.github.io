@@ -8,4 +8,6 @@ gem "webrick", "~> 1.7"
 
 gem "jekyll-sitemap", "~> 1.4"
 
+gem "html-proofer"
+
 

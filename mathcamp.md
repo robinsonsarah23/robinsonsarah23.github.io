@@ -1,7 +1,6 @@
 ---
 layout: default
 permalink: /teaching/mathcamp/
-label: nothome
 ---
 
 # Math Camp for Incoming PhD Students
