@@ -1,0 +1,295 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Lora');
+
+
+// Stop resizing in landscape on mobile
+html {
+	-webkit-text-size-adjust: 100%;
+}
+
+// Margin, weight, font for larger headers
+h1, h2, h3 {
+	margin:48px 0 20px;
+	font-weight: 700;
+	font-family: Lora;
+}
+
+// Margin, weight, font for smaller headers
+h4, h5, h6 {
+	margin: 36px 0 6px;
+	font-weight: 700;
+	font-family: Lora;
+}
+
+// Body text size, background color, text color
+body {
+	font-size: 15px;
+	background-color: #FFFFFF;
+}
+
+// Special indent paragraph
+p.indent {
+	margin-left: 60px;
+	margin-bottom: 2px;
+	text-indent: -45px;
+}
+
+// Spacing on bullet list
+ul {
+	margin-top: -1.3em;
+	margin-left: 8px;
+}
+
+// h1 text size
+h1 {
+	font-size: 30px;
+}
+
+// h2 text size
+h2 {
+	font-size: 20px;
+}
+
+// h4 text size
+h4 {
+	font-size: 16px;
+}
+
+// h1 in sidebar text
+h1.header {
+	font-family: Lora;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 1.3em;
+	border-bottom: none;
+	margin-top: 0;
+	margin-bottom: 35px;
+}
+
+// body in sidebar text
+p.header {
+	font-family: Lora;
+	font-weight: 700;
+}
+
+// buttons in sidebar spacing
+header ul {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 0px;
+}
+
+// Blockquote format
+blockquote {
+	margin-left: 15px;
+	margin-bottom: 40px;
+	margin-top: -8px;
+	margin-right: 0px;
+	padding: 0 0 0 15px;
+	font-style: italic;
+	border-left: 1px solid #ccc;
+	line-height: 1.5em;
+	font-size: 14px;
+}
+
+// Hyperlink color and font weight
+a {
+  color:#003362;
+  font-weight:420;
+}
+
+// Max width of whole page
+.wrapper{
+	width:1200px;
+}
+
+// Width, alignment, padding of main content
+section {
+  width:740px;
+  position:absolute;
+  margin: auto;
+  left: 375px;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  padding-top:50px;
+  padding-bottom:50px;
+  padding-right: 375px;
+}
+
+// Side box center and edge color, width
+header {
+	background-color: #003362;
+	color: #FFFFFF;
+  	width:200px;
+  	float:left;
+  	position:fixed;
+	border: 1px solid #003362;
+	-webkit-border-top-right-radius: 4px;
+	-webkit-border-bottom-right-radius: 4px;
+	-moz-border-radius-topright: 4px;
+	-moz-border-radius-bottomright: 4px;
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+	padding: 50px 50px 20px 75px;
+	margin: 30px 25px 0 0;
+	-webkit-font-smoothing: antialiased;
+}
+
+// Button color, width, height, text height, text color, text centering
+header li {
+	list-style-type: none;
+  	width:70px;
+  	height:30px;
+	line-height: 30px;
+	text-align: center;
+	padding: 0px 0px 0px 0px;
+
+	background: #ffbb00;
+	-webkit-box-shadow: inset 0px 0px 0px 0 rgba(233,2,38, 1);
+	box-shadow: inset 0px 0px 0px 0 rgba(233,2,38, 1);
+
+	border-radius:04px;
+  border:1px solid #0D0D0D;
+
+}
+
+// Button hover color
+header li:hover {
+	background: #fad77f;
+}
+
+
+// Button padding, text color, text weight, clickable area height
+a.buttons {
+	-webkit-font-smoothing: antialiased;
+	background: no-repeat;
+	font-weight: 600;
+	text-shadow: rgba(0, 0, 0, 0.4) 0 0 0;
+	padding: 0px 0px 0px 0px;
+	height: 30px;
+	display:block;
+	color: #232323
+}
+
+// Button hover text color
+a.buttons:hover {
+	color: #232323;
+	text-decoration: none;
+}
+
+
+// Footer width (same as box)
+footer {
+	width:170px
+}
+
+
+
+
+
+
+
+
+// ORIENTATION AND SPACING BY SCREEN TYPE
+
+@media print, screen and (max-width: 1450px) {
+  section {
+	padding-right:50px;
+	margin: 0px 0px 0px 0px;
+  }
+}
+
+
+@media print, screen and (max-width: 1125px) {
+
+  div.wrapper {
+    width:auto;
+    margin:0;
+  }
+
+  header, section, footer {
+    float:none;
+    position:static;
+    width:auto;
+  }
+
+	footer {
+		border-top: 1px solid #ccc;
+		margin:0 84px 0 50px;
+		padding:0;
+	}
+
+ header {
+	padding: 40px 0px 20px 75px;
+	
+ } 
+
+ section {
+    padding:20px 84px 20px 50px;
+    margin:0 0 20px;
+  }
+
+  header a small {
+    display:inline;
+  }
+
+  header ul, header p.view{
+    position:static;
+  }
+}
+
+@media print, screen and (max-width: 720px) {
+  body {
+    word-wrap:break-word;
+  }
+
+  header {
+  	padding:30px 0px 10px 50px;
+	margin-right: 0;
+  }
+
+  section {
+    padding:10px 0 10px 20px;
+    margin:0 0 30px;
+  }
+
+  footer {
+    margin: 0px 0px 0px 20px;
+ }
+
+
+  header ul, header p.view {
+    position:static;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+
+}
+
+@media print {
+  body {
+    padding:0.5in;
+    font-size:9pt;
+    color:#444;
+  }
+
+  header {
+    color: #003362;
+    background-color: #ffffff 
+  }
+
+ p.header {
+  margin: 0px 0px 10px 0px;
+ }
+
+ h1.header {
+  color: #003362;
+ margin: 0px 0px -15px 0px;
+ }
+
+}
