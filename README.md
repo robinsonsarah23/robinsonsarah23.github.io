@@ -1,1 +1,1 @@
-This is the Github Pages of Sarah Robinson.
+This is the personal website of Sarah Robinson.
