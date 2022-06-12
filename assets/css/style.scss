@@ -5,10 +5,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lora');
 
 
-// Stop resizing in landscape on mobile
-html {
-	-webkit-text-size-adjust: 100%;
-}
+/* TEXT & MAIN CONTENT */
 
 // Margin, weight, font for larger headers
 h1, h2, h3 {
@@ -58,6 +55,29 @@ h4 {
 	font-size: 16px;
 }
 
+// Blockquote format
+blockquote {
+	margin-left: 15px;
+	margin-bottom: 40px;
+	margin-top: -8px;
+	margin-right: 0px;
+	padding: 0 0 0 15px;
+	font-style: italic;
+	border-left: 1px solid #ccc;
+	line-height: 1.5em;
+	font-size: 14px;
+}
+
+// Hyperlink color and font weight
+a {
+  color:#003362;
+  font-weight:420;
+}
+
+
+
+/* SIDEBAR */
+
 // h1 in sidebar text
 h1.header {
 	font-family: Lora;
@@ -82,61 +102,21 @@ header ul {
 	margin-left: 0px;
 }
 
-// Blockquote format
-blockquote {
-	margin-left: 15px;
-	margin-bottom: 40px;
-	margin-top: -8px;
-	margin-right: 0px;
-	padding: 0 0 0 15px;
-	font-style: italic;
-	border-left: 1px solid #ccc;
-	line-height: 1.5em;
-	font-size: 14px;
-}
-
-// Hyperlink color and font weight
-a {
-  color:#003362;
-  font-weight:420;
-}
-
-// Max width of whole page
-.wrapper{
-	width:1200px;
-}
-
-// Width, alignment, padding of main content
-section {
-  width:740px;
-  position:absolute;
-  margin: auto;
-  left: 375px;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  padding-top:50px;
-  padding-bottom:50px;
-  padding-right: 375px;
-}
 
 // Side box center and edge color, width
 header {
 	background-color: #003362;
 	color: #FFFFFF;
-  	width:200px;
-  	float:left;
-  	position:fixed;
-	border: 1px solid #003362;
-	-webkit-border-top-right-radius: 4px;
-	-webkit-border-bottom-right-radius: 4px;
-	-moz-border-radius-topright: 4px;
-	-moz-border-radius-bottomright: 4px;
-	border-top-right-radius: 4px;
-	border-bottom-right-radius: 4px;
-	padding: 50px 50px 20px 75px;
+  	width:196px; // width of text
+	border: 0;
+	padding: 50px 75px 20px 75px;
 	margin: 30px 25px 0 0;
 	-webkit-font-smoothing: antialiased;
+}
+
+// Footer width (same as box)
+footer {
+	width:220px
 }
 
 // Button color, width, height, text height, text color, text centering
@@ -147,13 +127,11 @@ header li {
 	line-height: 30px;
 	text-align: center;
 	padding: 0px 0px 0px 0px;
-
 	background: #ffbb00;
 	-webkit-box-shadow: inset 0px 0px 0px 0 rgba(233,2,38, 1);
 	box-shadow: inset 0px 0px 0px 0 rgba(233,2,38, 1);
-
 	border-radius:04px;
-  border:1px solid #0D0D0D;
+  	border:1px solid #0D0D0D;
 
 }
 
@@ -182,9 +160,26 @@ a.buttons:hover {
 }
 
 
-// Footer width (same as box)
-footer {
-	width:170px
+
+/* SPACING MAIN */
+
+// Max width of whole page
+.wrapper{
+	width:1200px;
+}
+
+// Width, alignment, padding of main content
+section {
+  width:740px;
+  position:absolute;
+  margin: auto;
+  left: 375px;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  padding-top:50px;
+  padding-bottom:50px;
+  padding-right: 375px;
 }
 
 
@@ -194,7 +189,16 @@ footer {
 
 
 
-// ORIENTATION AND SPACING BY SCREEN TYPE
+
+
+
+
+/* SPACING ALT */
+
+// Stop resizing in landscape on mobile
+html {
+	-webkit-text-size-adjust: 100%;
+}
 
 @media print, screen and (max-width: 1450px) {
   section {
