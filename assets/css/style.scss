@@ -2,15 +2,17 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Lora');
+@import url('https://fonts.googleapis.com/css?family=Lora:400,500,600,700');
 
 
 /* TEXT & MAIN CONTENT */
 
+* {-webkit-font-smoothing: antialiased;}
+
 // Margin, weight, font for larger headers
 h1, h2, h3 {
 	margin:48px 0 20px;
-	font-weight: 700;
+	font-weight: 500;
 	font-family: Lora;
 }
 
@@ -25,14 +27,41 @@ h4, h5, h6 {
 body {
 	font-size: 15px;
 	background-color: #FFFFFF;
+	padding: 10px 0 0 0;
 }
 
 // Special indent paragraph
 p.indent {
-	margin-left: 60px;
+	margin-left: 70px;
 	margin-bottom: 2px;
-	text-indent: -45px;
+	text-indent: -55px;
 }
+
+
+// Container for picture and bio
+.profile {
+	text-align: center;
+	border: 0;
+	display: flex;
+	align-items: center;
+	justify-content: left;
+	padding: 20px 50px 20px 40px; 
+}
+img {
+	border-style: none;
+}
+.bio {
+	align-items: center;
+	justify-content: center;
+	display: flex;
+	margin: 0;
+	flex-direction: row;
+	margin: 50px 0 0 0;
+}
+.bio p {
+	margin-bottom:50px;
+}
+
 
 // Spacing on bullet list
 ul {
@@ -70,8 +99,8 @@ blockquote {
 
 // Hyperlink color and font weight
 a {
-  color:#003362;
-  font-weight:420;
+	color:#003362;
+	font-weight:500;
 }
 
 
@@ -93,30 +122,41 @@ h1.header {
 p.header {
 	font-family: Lora;
 	font-weight: 700;
+	font-size: 16px;
+}
+
+// alt body in sidebar text
+p.headeralt{
+	font-family: Lora;
+	font-weight: 700;
+	font-size: 16px;
+	margin-top: 40px;
+	margin-bottom: 0px;
 }
 
 // buttons in sidebar spacing
 header ul {
-	margin-top: 50px;
-	margin-bottom: 50px;
+	margin-top: 40px;
+	margin-bottom: 0px;
 	margin-left: 0px;
 }
 
 
-// Side box center and edge color, width
+// Sidebar box
 header {
 	background-color: #003362;
 	color: #FFFFFF;
-  	width:196px; // width of text
+  	width:180px; // width of text, set manually if changing text
+	height: 400px;
 	border: 0;
-	padding: 50px 75px 20px 75px;
+	padding: 50px 75px 50px 75px;
 	margin: 30px 25px 0 0;
-	-webkit-font-smoothing: antialiased;
 }
 
-// Footer width (same as box)
+// Footer
 footer {
-	width:220px
+	width:220px;
+	padding: 0px 0px 0px 50px;
 }
 
 // Button color, width, height, text height, text color, text centering
@@ -132,6 +172,7 @@ header li {
 	box-shadow: inset 0px 0px 0px 0 rgba(233,2,38, 1);
 	border-radius:04px;
   	border:1px solid #0D0D0D;
+	margin: 0;
 
 }
 
@@ -143,9 +184,8 @@ header li:hover {
 
 // Button padding, text color, text weight, clickable area height
 a.buttons {
-	-webkit-font-smoothing: antialiased;
 	background: no-repeat;
-	font-weight: 600;
+	font-weight: 700;
 	text-shadow: rgba(0, 0, 0, 0.4) 0 0 0;
 	padding: 0px 0px 0px 0px;
 	height: 30px;
@@ -163,34 +203,18 @@ a.buttons:hover {
 
 /* SPACING MAIN */
 
-// Max width of whole page
-.wrapper{
-	width:1200px;
-}
-
 // Width, alignment, padding of main content
 section {
-  width:740px;
-  position:absolute;
-  margin: auto;
-  left: 375px;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  padding-top:50px;
-  padding-bottom:50px;
-  padding-right: 375px;
+	width:740px;
+	position:absolute;
+	margin: auto;
+	left: 400px;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	padding-top:20px;
+	padding-right:400px;
 }
-
-
-
-
-
-
-
-
-
-
 
 
 /* SPACING ALT */
@@ -200,100 +224,186 @@ html {
 	-webkit-text-size-adjust: 100%;
 }
 
-@media print, screen and (max-width: 1450px) {
-  section {
-	padding-right:50px;
-	margin: 0px 0px 0px 0px;
-  }
+// If narrower than (section left = 400) + (section width = 740) + (section padding right = 400), reduce padding-right
+@media print, screen and (max-width: 1540px) {
+	section {
+		padding-right:50px;
+		margin: 0px 0px 0px 0px;
+	}
 }
 
+// If narrower than (section left = 400) + (section width = 740) + (new section padding right = 50) OR shorter than sidebar, put sidebar on top
+@media print, screen and (max-width: 1190px), (max-height:575px)  {
+	div.wrapper {
+		width:auto;
+		margin:0;
+  	}
 
-@media print, screen and (max-width: 1125px) {
-
-  div.wrapper {
-    width:auto;
-    margin:0;
-  }
-
-  header, section, footer {
-    float:none;
-    position:static;
-    width:auto;
-  }
+	header, section, footer {
+		float:none;
+		position:static;
+	}
 
 	footer {
 		border-top: 1px solid #ccc;
-		margin:0 84px 0 50px;
-		padding:0;
+		margin: auto;
+		padding:5px 0 0 0;
+		width:740px;
+  	}
+
+  	header {
+		padding: 40px 0px 40px 100px;
+		margin: 30px 100px 0 0;
+		width: auto;
+  	}
+
+	p.headeralt{
+		margin-top: 20px;
 	}
 
- header {
-	padding: 40px 0px 20px 75px;
+	section {
+    		padding:20px 100px 20px 100px;
+    		margin:auto;
+    		width:740px;
+  	}
+
+	header ul {
+		margin-top: 30px;
+	}	 
+
+ 	header a small {
+    		display:inline;
+  	}
+  	
+	header ul, header p.view{
+    		position:static;
+  	}
 	
- } 
+	.bio {
+		margin: 40px 0 0 0;
+	}
+	
+	.profile {
+		padding: 0px 50px 0px 40px; 
+	}
 
- section {
-    padding:20px 84px 20px 50px;
-    margin:0 0 20px;
-  }
-
-  header a small {
-    display:inline;
-  }
-
-  header ul, header p.view{
-    position:static;
-  }
+	header {
+		height: auto;
+	}
 }
 
-@media print, screen and (max-width: 720px) {
-  body {
-    word-wrap:break-word;
-  }
+// If narrower than (new section padding right = 100) + (new section padding left = 100) + (section width = 740), shrink side paddings, change header to narrower
+@media print, screen and (max-width: 940px)  {
 
-  header {
-  	padding:30px 0px 10px 50px;
-	margin-right: 0;
-  }
+  	footer {
+		margin:auto;
+		margin-top:20px;
+  	}
 
-  section {
-    padding:10px 0 10px 20px;
-    margin:0 0 30px;
-  }
+ 	section {
+    		padding:20px 0 0 0;
+		margin: auto;
+  	}
 
-  footer {
-    margin: 0px 0px 0px 20px;
- }
+  	header {
+		padding: 30px 75px 30px 20px;
+		margin-right: 20px;
+		width: auto;
+  	}
 
+ 	h1.header {
+		margin-bottom: 10px;
+  	}
 
-  header ul, header p.view {
-    position:static;
-  }
+  	p.header {
+		margin-bottom: 5px;
+  	}
+
+	header ul {
+		margin-top: 20px;
+	}	 
 }
 
-@media print, screen and (max-width: 480px) {
+// If narrower than (new section padding right = 20) + (new section padding left = 20) + (section width = 740), auto width
+@media print, screen and (max-width: 780px) {
 
+ 	section {
+		padding:20px 20px 20px 20px;
+		width: auto;
+ 	}
+
+ 	footer {
+		margin:10px 20px 20px 20px;
+		width: auto;
+ 	}
+
+ 	body {
+   		word-wrap:break-word;
+  	}
 }
 
+// At a certain point, change orientation of bio
+@media print, screen and (max-width: 630px)  { 
+	.bio {
+  		flex-direction: column;
+  	}
+	
+	.profile {
+		padding: 0 0 40px 0; 
+	}
+	
+	.bio p {
+		margin-bottom:15px;
+	}
+}
+
+// If getting too too small, fixed width
+@media print, screen and (max-width: 320px) {
+
+  	section {
+    		padding:20px 20px 10px 20px;
+    		margin:0 0 30px;
+    		width: 265px;
+  	}
+
+  	footer {
+    		margin:5px 20px 20px 20px;
+    		width: 265px;
+ 	}
+
+  	header {
+		margin-right: 20px;
+		width: 190px;
+  	}
+}
+
+
+// Print format
 @media print {
-  body {
-    padding:0.5in;
-    font-size:9pt;
-    color:#444;
-  }
+	body {
+    		font-size:11pt;
+    		color:#000000;
+  	}
 
-  header {
-    color: #003362;
-    background-color: #ffffff 
-  }
+  	section {
+		margin-top: -30px;
+  	}
 
- p.header {
-  margin: 0px 0px 10px 0px;
- }
+  	blockquote {
+		margin-bottom: 24px;
+  	}
 
- h1.header {
-  color: #003362;
- margin: 0px 0px -15px 0px;
- }
+  	header {
+    		color: #003362;
+    		background-color: #FFFFFF
+  	}
 
+ 	p.header {
+  		margin: 0px 0px 10px 0px;
+ 	}
+
+ 	h1.header {
+  		color: #003362;
+ 		margin: 0px 0px 0px 0px;
+ 	}
 }

@@ -3,15 +3,13 @@ layout: default
 label: home
 ---
 
-<br>
-
-
-<img src="./assets/images/profile.jpg" alt="Profile Photo" width="200" height="231"/>{: style="float: left"}
-<p style="margin-left: 220px">I am a PhD Candidate in Economics at the University of California Santa Barbara and a NBER Pre&#8209;Doctoral Fellow in Aging and&nbsp;Health.</p> 
-
-<p style="margin-left: 220px">My research focuses on health economics and public economics. You&nbsp;can find my <a href="./Robinson_CV.pdf">CV&nbsp;here</a>.</p>
-
-<br clear="left"/>
+<div class="bio">
+  <div class="profile">
+    <img src="./assets/images/profile.jpg" alt="Profile Photo" width="250" height="289" style="margin:0; padding:0;"/>
+  </div>
+  <p>I am a PhD Candidate in Economics at the University of California Santa Barbara and a NBER Pre&#8209;Doctoral Fellow in Aging and&nbsp;Health. <br><br>
+  My research focuses on health economics and public economics. You&nbsp;can&nbsp;find my <a href="./Robinson_CV.pdf">CV&nbsp;here</a>.</p>
+</div>
 
 
 #### Contact Information:
@@ -19,7 +17,7 @@ label: home
 <p class="indent"><img src="./assets/images/twitter.png" alt="" width="22" height="18"/> &nbsp; <a href="https://twitter.com/RobinsonSarah_" > @RobinsonSarah_</a></p>
 
 #### Education & Experience:
-<p class="indent"><img src="./assets/images/education.png" alt="" width="22" height="19" /> &nbsp; PhD&nbsp;in&nbsp;Economics, UC&nbsp;Santa&nbsp;Barbara&nbsp;<em>(In&nbsp;Progress)</em></p>
+<p class="indent"><img src="./assets/images/education.png" alt="" width="22" height="19" /> &nbsp; PhD&nbsp;in&nbsp;Economics, UC&nbsp;Santa&nbsp;Barbara <em>(In&nbsp;Progress)</em></p>
 <p class="indent"><img src="./assets/images/education.png" alt="" width="22" height="19"/> &nbsp; MA&nbsp;in&nbsp;Economics, UC&nbsp;Santa&nbsp;Barbara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p class="indent"><img src="./assets/images/work.png" alt="" width="22" height="17" /> &nbsp; Deloitte&nbsp;Consulting&nbsp;LLP, Strategy&nbsp;&&nbsp;Operations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p class="indent"><img src="./assets/images/education.png" alt="" width="22" height="19"/> &nbsp; BA&nbsp;in&nbsp;Philosophy, Politics,&nbsp;and&nbsp;Economics, Claremont&nbsp;McKenna&nbsp;College&nbsp;</p>
@@ -50,7 +48,3 @@ Teaching Materials
 Study Guides
 * <a href="./resources/210A Study Guide v39.pdf">ECON 210A PDF </a> \| <a href="./resources/210A v39.zip" download>LaTeX</a> &nbsp; (1st&nbsp;Year&nbsp;Micro&nbsp;Fall -- Consumption &&nbsp;Production)  
 * <a href="./resources/210B Study Guide v18.pdf">ECON 210B PDF </a> \| <a href="./resources/210B Study Guide v18.tex" download>LaTeX</a> &nbsp; (1st&nbsp;Year&nbsp;Micro&nbsp;Winter -- Game&nbsp;Theory) 
-
-
-<br>
-<br>

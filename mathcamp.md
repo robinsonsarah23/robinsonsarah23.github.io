@@ -40,7 +40,3 @@ permalink: /teaching/mathcamp/
 <a href="/teaching/mathcamp/Constrained Optimization doing KT.pdf">Doing Kuhn-Tucker</a> <br><br>
 <a href="/teaching/mathcamp/PS A3 - Optimization.pdf">Problem Set A3 </a><br>
 
-
-<br>
-<br>
-<br>
