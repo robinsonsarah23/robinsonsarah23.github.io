@@ -41,7 +41,6 @@ label: home
 
 
 ## Resources
-
 Teaching Materials
 * [Math Camp (PhD)](./teaching/mathcamp)
 
