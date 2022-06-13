@@ -10,7 +10,13 @@
 <link rel="manifest" href="/site.webmanifest">
 
 <!-- Preview images -->
-<meta name="og:image" content="/apple-touch-icon.png">
-<meta name="twitter:image" content="/apple-touch-icon.png">
+<meta name="og:image" content="/assets/images/profile-square.png">
+<meta name="twitter:image" content="/assets/images/profile-square.png">
+
+<!-- Clean up description -->
+{% if page.label!="home" %}
+    <meta name="description" content="Sarah Robinson" />
+	<meta property="og:description" content="Sarah Robinson" />
+{% endif %}
 
 <!-- End custom head snippets -->
