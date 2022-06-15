@@ -1,3 +1,5 @@
+<!-- This is the personal website of Sarah Robinson -->
+
 ---
 layout: default
 permalink: /about/

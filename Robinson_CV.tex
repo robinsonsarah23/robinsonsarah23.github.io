@@ -22,6 +22,11 @@
 	\monthname[\THEMONTH] \THEYEAR}
 \rfoot{\textit{Updated \monthyeardate\today}}
 
+%COLUMN WIDTHS
+\keepXColumns
+\newcolumntype{Y}{>{\hsize=.35\hsize}X}
+\newcolumntype{Z}{>{\hsize=1.65\hsize}X}
+
 %OTHER CUSTOM SETTINGS
 \setstretch{1}
 \allowdisplaybreaks
@@ -33,19 +38,6 @@
 	urlcolor=black,
 }
 
-\keepXColumns
-
-\newcolumntype{Y}{>{\hsize=.35\hsize}X}
-\newcolumntype{Z}{>{\hsize=1.65\hsize}X}
-
-\newcolumntype{A}{>{\hsize=1.44\hsize}X}
-\newcolumntype{B}{>{\hsize=.84\hsize}X}
-\newcolumntype{C}{>{\hsize=.72\hsize}X}
-
-\newcolumntype{D}{>{\hsize=.9\hsize}X}
-\newcolumntype{E}{>{\hsize=.9\hsize}X}
-\newcolumntype{F}{>{\hsize=1.2\hsize}X}
-
 \begin{document}
 
 \begin{center}
@@ -55,26 +47,6 @@
 
 
 \end{center}
-
-%2015 North Hall \ \textbar \ \ University of California \ \textbar \ \ Santa Barbara, CA 93106 \\
-
-%sarahrobinson@ucsb.edu \ \textbar \ \ \href{https://www.s-robinson.com}{\color{blue}{www.s-robinson.com}}
-
-%\begin{tabularx}{\textwidth}{@{}D E F@{}}
-%	2015 North Hall \newline University of California \newline Santa Barbara, CA 93106
-%	& sarahrobinson@ucsb.edu \newline  
-%	%& \href{mailto:sarahrobinson@ucsb.edu}{sarahrobinson@ucsb.edu} \newline 
-%	\href{https://www.s-robinson.com}{\color{blue}{www.s-robinson.com}}
-%	& \hfill \raisebox{\dimexpr-\height+1.5ex}{{\Huge\textsc{Sarah Robinson}}} 
-%\end{tabularx}
-
-%\begin{tabularx}{\textwidth}{@{}A B C@{}}
-%	\raisebox{\dimexpr-\height+1.5ex}{{\huge \textsc{Sarah Robinson}}} 
-%	& 2015 North Hall \newline University of California \newline Santa Barbara, CA 93106
-%	& sarahrobinson@ucsb.edu \newline  
-%	%& \href{mailto:sarahrobinson@ucsb.edu}{sarahrobinson@ucsb.edu} \newline 
-%	\href{https://www.s-robinson.com}{\color{blue}{www.s-robinson.com}}
-%\end{tabularx}
 
 \vspace{-6pt}
 
@@ -236,41 +208,7 @@
 	\textit{Business Analyst} \hfill 2013 -- 2016
 	\vspace{20pt} \\
 
-%	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%	\textsc{Other Work \newline Experience} \vspace{20pt} & 
-%	\textbf{Deloitte Consulting LLP,} San Francisco, CA \hfill August 2013 -- October 2016
-%	\vspace{2pt} \newline
-%	\textbf{Strategy \& Operations} 
-%	\vspace{2pt} \newline
-%	\textit{Business Analyst, Consultant}
-%	\vspace{10pt} \newline
-%	\begin{minipage}{1.5\linewidth}	
-%	\begin{raggedright}
-%	\begin{itemize} [leftmargin=20pt,topsep=0pt]
-%		\item Worked with private sector clients (healthcare providers, high technology, and pharmaceutical \& consumer products companies) as well as social sector clients (foundations and nonprofits)
-%		\item Delivered value to clients across a wide range of services including consumer analytics, operational metric improvement, cost reduction, \\ and growth strategy
-%		\item Performed data analysis, data visualization, financial modeling, market analysis, and client interviews; developed and presented deliverables; and managed teams, timelines, and client relationships
-%	\end{itemize}
-%	\end{raggedright}
-%	\end{minipage}
-%	\vspace{20pt} \newline
-%	\textbf{The Boeing Company,} Seattle, WA \hfill Su. 2010, Fall 2010, Su. 2012
-%	\vspace{2pt} \newline
-%	\textbf{Operations, Analysis, Modeling \& Simulation} 
-%	\vspace{2pt} \newline
-%	\textit{Summer Intern, Part-Time Student Engineer}
-%	\vspace{10pt} \newline
-%	\begin{minipage}{1.5\linewidth}	
-%		\begin{raggedright}
-%			\begin{itemize} [leftmargin=20pt,topsep=0pt]
-%				\item Developed simulation models, sensitivity analysis, and policy recommendations on behalf of internal and external clients
-%			\end{itemize}
-%		\end{raggedright}
-%	\end{minipage}
-%	\vspace{20pt} \\
-	
-	
-\end{tabularx}
 
+\end{tabularx}
 
 \end{document}
