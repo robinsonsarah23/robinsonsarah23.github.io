@@ -1,0 +1,276 @@
+%DOCUMENT CLASS
+\documentclass[11pt]{article}
+
+%PACKAGES
+\usepackage{amsmath}
+\usepackage[shortlabels]{enumitem} %Allows more enumerate options
+\usepackage{fancyhdr}
+\usepackage[left=.5in,right=.5in,top=.5in,bottom=0.50 in,footskip=0.3cm]{geometry} %Sets page margins
+\usepackage{hyperref}
+\usepackage{lastpage}
+\usepackage{ltablex}
+\usepackage{tabularx}
+\usepackage[super]{nth}
+\usepackage{datetime}
+\usepackage{setspace}
+
+%HEADER FOOTER
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\cfoot{\textit{\thepage\ of \pageref*{LastPage}}}
+\newdateformat{monthyeardate}{%
+	\monthname[\THEMONTH] \THEYEAR}
+\rfoot{\textit{Updated \monthyeardate\today}}
+
+%OTHER CUSTOM SETTINGS
+\setstretch{1}
+\allowdisplaybreaks
+\setlength{\parindent}{0pt} %Sets paragraph indent to 0pt
+\hypersetup{
+	colorlinks=true,
+	linkcolor=black,
+	filecolor=black,      
+	urlcolor=black,
+}
+
+\keepXColumns
+
+\newcolumntype{Y}{>{\hsize=.35\hsize}X}
+\newcolumntype{Z}{>{\hsize=1.65\hsize}X}
+
+\newcolumntype{A}{>{\hsize=1.44\hsize}X}
+\newcolumntype{B}{>{\hsize=.84\hsize}X}
+\newcolumntype{C}{>{\hsize=.72\hsize}X}
+
+\newcolumntype{D}{>{\hsize=.9\hsize}X}
+\newcolumntype{E}{>{\hsize=.9\hsize}X}
+\newcolumntype{F}{>{\hsize=1.2\hsize}X}
+
+\begin{document}
+
+\begin{center}
+
+{\Huge\textsc{Sarah Robinson}} \\[5pt]
+
+
+
+\end{center}
+
+%2015 North Hall \ \textbar \ \ University of California \ \textbar \ \ Santa Barbara, CA 93106 \\
+
+%sarahrobinson@ucsb.edu \ \textbar \ \ \href{https://www.s-robinson.com}{\color{blue}{www.s-robinson.com}}
+
+%\begin{tabularx}{\textwidth}{@{}D E F@{}}
+%	2015 North Hall \newline University of California \newline Santa Barbara, CA 93106
+%	& sarahrobinson@ucsb.edu \newline  
+%	%& \href{mailto:sarahrobinson@ucsb.edu}{sarahrobinson@ucsb.edu} \newline 
+%	\href{https://www.s-robinson.com}{\color{blue}{www.s-robinson.com}}
+%	& \hfill \raisebox{\dimexpr-\height+1.5ex}{{\Huge\textsc{Sarah Robinson}}} 
+%\end{tabularx}
+
+%\begin{tabularx}{\textwidth}{@{}A B C@{}}
+%	\raisebox{\dimexpr-\height+1.5ex}{{\huge \textsc{Sarah Robinson}}} 
+%	& 2015 North Hall \newline University of California \newline Santa Barbara, CA 93106
+%	& sarahrobinson@ucsb.edu \newline  
+%	%& \href{mailto:sarahrobinson@ucsb.edu}{sarahrobinson@ucsb.edu} \newline 
+%	\href{https://www.s-robinson.com}{\color{blue}{www.s-robinson.com}}
+%\end{tabularx}
+
+\vspace{-6pt}
+
+\noindent\rule{\textwidth}{1pt}
+
+\vspace{6pt}
+
+\begin{tabularx}{\textwidth}{@{}Y Z@{}}
+	
+	%\pagebreak
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\textsc{Contact \newline Information} & 
+	\begin{minipage}[t]{0.35\textwidth}
+		North Hall 2015 \newline
+		Department of Economics \newline
+		University of California \newline
+		Santa Barbara, CA 93106
+	\end{minipage}\begin{minipage}[t]{0.4\textwidth}
+	\makebox[45pt]{\textit{Phone:} \hfill} (805) 316-1377 \newline
+	\makebox[45pt]{\textit{E-mail:} \hfill} sarahrobinson@ucsb.edu \newline
+	\makebox[45pt]{\textit{Website:} \hfill} \href{https://www.s-robinson.com}{\color{blue}{www.s-robinson.com}} \newline
+	\makebox[60pt]{\textit{Citizenship:} \hfill} U.S.
+\end{minipage}
+	\newline \\[15pt]
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\textsc{Research \newline Interests} \vspace{20pt} & 
+	Health Economics, Public Economics, Applied Microeconomics
+	\\[15pt]
+	
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\textsc{Education} \vspace{20pt} &
+	\textbf{University of California, Santa Barbara}
+	\vspace{3pt} \newline
+	\hspace*{15pt} Ph.D., Economics \hfill Expected 2023
+	\vspace{3pt} \newline
+	\hspace*{15pt} \textit{Dissertation Committee: Heather Royer (advisor), \newline \hspace*{15pt} Youssef Benzarti, H.E. (Ted) Frech III, Alisa Tazhitdinova} 
+	\vspace{10pt} \newline
+	\hspace*{15pt} M.A., Economics \hfill 2018
+	\vspace{15pt} \newline
+	\textbf{Claremont McKenna College,} Claremont, CA 
+	\vspace{3pt} \newline
+	\hspace*{15pt} B.A., Philosophy, Politics \& Economics, \textit{magna cum laude} \hfill 2013
+	\vspace{0pt}
+	\\[20pt]
+
+
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\textsc{Working \newline Papers} \vspace{20pt} & 
+	``What Drives Tax Policy? Political, Institutional and Economic Determinants \newline of State Tax Policy in the Past 70 Years" with Alisa Tazhitdinova \href{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4035979}{\color{blue}{\textit{(link)}}}
+	\vspace{15pt} \newline
+	``Corporate Political Spending and State Tax Policy: Evidence from Citizens United" \newline with Cailin Slattery and Alisa Tazhitdinova
+	\vspace{15pt} \newline
+	``Geographic Variation in C-Sections in the United States: Trends, Correlates \newline and Other Interesting Facts" with Heather Royer and David Silver \href{https://irle.berkeley.edu/files/2022/05/rrs_csection_version_davefest.pdf}{\color{blue}{\textit{(link)}}}
+    \\[20pt]
+    
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    \textsc{Work in \newline Progress} \vspace{20pt} & 
+    ``The Effect of State Insurance Mandates on Employers' Choice to Self Insure"
+     \vspace{15pt} \newline
+    ``Employer Choice of Health Insurance Plans and Premium Sharing" \newline
+    \textit{(proposal approved by the Census Bureau; under IRS review)} 
+    \\[20pt]
+
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\textsc{Fellowships \newline \& Awards} \vspace{20pt} & 
+	\underline{\smash{External}}
+	\vspace{3pt} \newline
+	NBER Pre-Doctoral Fellow, Aging and Health Research, 2021 -- 2022
+	\vspace{15pt} \newline
+	\underline{\smash{University of California Santa Barbara}}
+	\vspace{3pt} \newline
+	Job Market Fellowship, 2022
+	\vspace{3pt} \newline
+	Outstanding Teaching Assistant Award, 2021, 2019
+	\vspace{3pt} \newline
+	Research Quarter Fellowship, 2019
+	\vspace{3pt} \newline
+	Gretler Fellowship, 2019
+	\vspace{3pt} \newline
+	Mortimer Andron Fellowship, 2018 -- 2022
+	\vspace{3pt} \newline 
+	Distinction in Ph.D. Preliminary Exam, Microeconomics, 2018
+	\vspace{3pt} \newline
+	Regents Fellowship, 2017 -- 2018
+	%\vspace{15pt} \newline
+	\\ \newpage &
+	\underline{\smash{Claremont McKenna College}}
+	\vspace{3pt} \newline
+	Phi Beta Kappa, 2013
+	\vspace{3pt} \newline
+	Edward J. Sexton PPE Fellow, 2011 -- 2013
+	\vspace{3pt} \newline
+	Dean's List, 2010 -- 2013
+	\\[20pt]
+	
+
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\textsc{Research \newline Assistance} \vspace{20pt} & 
+	Heather Royer \& David Silver, 2020 -- 2021 
+	\vspace{3pt} \newline 
+	Youssef Benzarti \& Alisa Tazhitdinova, 2019
+	\\[20pt]
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\textsc{Teaching \newline Experience} \vspace{20pt} & 
+	Instructor, Ph.D. Math Camp (UCSB)
+	\vspace{3pt} \newline
+	Head Teaching Assistant, Economics 10A Microeconomic Theory (UCSB)
+	\vspace{3pt} \newline
+	Teaching Assistant, Economics 10A Microeconomic Theory (UCSB)
+	\vspace{3pt} \newline
+	Teaching Assistant, Economics 134A Financial Management (UCSB)
+	\vspace{3pt} \newline
+	Tutor, Economics 120 Statistics (CMC)
+	\vspace{3pt} \newline
+	\textit{Average rating 1.3 (1 = highest, 5 = lowest)}
+	\\[20pt]
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\textsc{Presentations} \vspace{20pt} & 
+	Online Public Finance Seminar Graduate Student Workshop, 2022  
+	\vspace{3pt} \newline
+	UCSB Applied Microeconomics Lunch, 2022, 2021
+	\vspace{3pt} \newline
+	NBER Spring Public Economics Meeting \textit{(co-author presenting)}, 2022  
+	\vspace{3pt} \newline
+	AEA Annual Meeting \textit{(poster session)}, 2022 
+	\vspace{3pt} \newline
+	MannheimTaxation, 2021 
+	\\[20pt]
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\textsc{Refereeing} \vspace{20pt} & 
+	American Economic Journal: Economic Policy
+	\\[20pt]
+	
+	
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\textsc{Other \newline Activities} \vspace{20pt} & 
+	NBER Health Economics Research Bootcamp -- \textit{Invited Attendee}
+	\vspace{3pt} \newline
+	$\nth{7}$ Lindau Meeting on Economic Sciences -- \textit{Invited}
+	\vspace{3pt} \newline
+	UCSB Health Reading Group -- \textit{Organizer}
+	\\[20pt]
+	
+
+	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\textsc{Other Work \newline Experience} \vspace{20pt} & 
+	\textbf{Deloitte Consulting LLP,} San Francisco, CA
+	\vspace{0pt} \newline
+	\textbf{Strategy \& Operations} 
+	\vspace{3pt} \newline
+	\textit{Consultant} \hfill 2016
+	\vspace{0pt} \newline
+	\textit{Business Analyst} \hfill 2013 -- 2016
+	\vspace{20pt} \\
+
+%	%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%	\textsc{Other Work \newline Experience} \vspace{20pt} & 
+%	\textbf{Deloitte Consulting LLP,} San Francisco, CA \hfill August 2013 -- October 2016
+%	\vspace{2pt} \newline
+%	\textbf{Strategy \& Operations} 
+%	\vspace{2pt} \newline
+%	\textit{Business Analyst, Consultant}
+%	\vspace{10pt} \newline
+%	\begin{minipage}{1.5\linewidth}	
+%	\begin{raggedright}
+%	\begin{itemize} [leftmargin=20pt,topsep=0pt]
+%		\item Worked with private sector clients (healthcare providers, high technology, and pharmaceutical \& consumer products companies) as well as social sector clients (foundations and nonprofits)
+%		\item Delivered value to clients across a wide range of services including consumer analytics, operational metric improvement, cost reduction, \\ and growth strategy
+%		\item Performed data analysis, data visualization, financial modeling, market analysis, and client interviews; developed and presented deliverables; and managed teams, timelines, and client relationships
+%	\end{itemize}
+%	\end{raggedright}
+%	\end{minipage}
+%	\vspace{20pt} \newline
+%	\textbf{The Boeing Company,} Seattle, WA \hfill Su. 2010, Fall 2010, Su. 2012
+%	\vspace{2pt} \newline
+%	\textbf{Operations, Analysis, Modeling \& Simulation} 
+%	\vspace{2pt} \newline
+%	\textit{Summer Intern, Part-Time Student Engineer}
+%	\vspace{10pt} \newline
+%	\begin{minipage}{1.5\linewidth}	
+%		\begin{raggedright}
+%			\begin{itemize} [leftmargin=20pt,topsep=0pt]
+%				\item Developed simulation models, sensitivity analysis, and policy recommendations on behalf of internal and external clients
+%			\end{itemize}
+%		\end{raggedright}
+%	\end{minipage}
+%	\vspace{20pt} \\
+	
+	
+\end{tabularx}
+
+
+\end{document}
