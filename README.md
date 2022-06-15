@@ -3,7 +3,7 @@ layout: default
 permalink: /about/
 ---
 
-<!-- This is the personal website of Sarah Robinson -->
+<!--- This is the personal website of Sarah Robinson --->
 
 # About This Page
 

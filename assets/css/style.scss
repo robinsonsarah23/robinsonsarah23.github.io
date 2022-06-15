@@ -103,6 +103,11 @@ a {
 	font-weight:500;
 }
 
+// Make normal bold same weight as hyperlinks
+strong {
+	font-weight:500;
+}
+
 
 
 /* SIDEBAR */
@@ -355,6 +360,11 @@ html {
 	.bio p {
 		margin-bottom:15px;
 	}
+}
+
+// At a certain point, break up education evenly
+@media print, screen and (min-width: 445px) {
+	.rwd-break {display: none;}
 }
 
 // If getting too too small, fixed width
