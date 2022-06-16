@@ -13,14 +13,14 @@ label: home
 
 
 #### Contact Information:
-<p class="indent"><img src="./assets/images/email.png" alt="" width="22" height="16"/> &nbsp; sarahrobinson@ucsb.edu </p>
-<p class="indent"><img src="./assets/images/twitter.png" alt="" width="22" height="18"/> &nbsp; <a href="https://twitter.com/RobinsonSarah_" > @RobinsonSarah_</a></p>
+<p class="indentbio"><img src="./assets/images/email.png" alt="" width="22" height="16"/> &nbsp; sarahrobinson@ucsb.edu </p>
+<p class="indentbio"><img src="./assets/images/twitter.png" alt="" width="22" height="18"/> &nbsp; <a href="https://twitter.com/RobinsonSarah_" > @RobinsonSarah_</a></p>
 
 #### Education & Experience:
-<p class="indent"><img src="./assets/images/education.png" alt="" width="22" height="19" /> &nbsp; <span>PhD&nbsp;in&nbsp;Economics, <br class="rwd-break">UC&nbsp;Santa&nbsp;Barbara <br class="rwd-break"><em>(in&nbsp;progress)</em></span></p>
-<p class="indent"><img src="./assets/images/education.png" alt="" width="22" height="19"/> &nbsp; <span>MA&nbsp;in&nbsp;Economics, <br class="rwd-break">UC&nbsp;Santa&nbsp;Barbara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
-<p class="indent"><img src="./assets/images/work.png" alt="" width="22" height="17" /> &nbsp; <span>Deloitte&nbsp;Consulting&nbsp;LLP, <br class="rwd-break">Strategy&nbsp;&&nbsp;Operations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
-<p class="indent"><img src="./assets/images/education.png" alt="" width="22" height="19"/> &nbsp; BA&nbsp;in&nbsp;Philosophy, Politics,&nbsp;and&nbsp;Economics, <em>magna&nbsp;cum&nbsp;laude</em>, Claremont&nbsp;McKenna&nbsp;College&nbsp;</p>
+<p class="indentbio"><img src="./assets/images/education.png" alt="" width="22" height="19" /> &nbsp; <span>PhD&nbsp;in&nbsp;Economics, <br class="rwd-break-bio">UC&nbsp;Santa&nbsp;Barbara <br class="rwd-break-bio"><em>(in&nbsp;progress)</em></span></p>
+<p class="indentbio"><img src="./assets/images/education.png" alt="" width="22" height="19"/> &nbsp; <span>MA&nbsp;in&nbsp;Economics, <br class="rwd-break-bio">UC&nbsp;Santa&nbsp;Barbara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p class="indentbio"><img src="./assets/images/work.png" alt="" width="22" height="17" /> &nbsp; <span>Deloitte&nbsp;Consulting&nbsp;LLP, <br class="rwd-break-bio">Strategy&nbsp;&&nbsp;Operations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p class="indentbio"><img src="./assets/images/education.png" alt="" width="22" height="19"/> &nbsp; BA&nbsp;in&nbsp;Philosophy, Politics,&nbsp;and&nbsp;Economics, <em>magna&nbsp;cum&nbsp;laude</em>, Claremont&nbsp;McKenna&nbsp;College&nbsp;</p>
 
 
 ## Working Papers
@@ -44,13 +44,12 @@ label: home
 
 ## Teaching Experience
 
-*Average rating 1.3 (1 = highest, 5 = lowest)*
+*Average rating 1.3 (1&nbsp;=&nbsp;highest,&nbsp;5&nbsp;=&nbsp;lowest)*
 
-**Instructor**, PhD Math Camp  
-**Head Teaching Assistant**, Economics 10A Microeconomic Theory  
-**Teaching Assistant**, Economics 10A Microeconomic Theory  
-**Teaching Assistant**, Economics 134A Financial Management  
-
+<p class="indentteach"><span><strong>Instructor</strong>, <br class="rwd-break-teach">PhD&nbsp;Math&nbsp;Camp</span></p>
+<p class="indentteach"><span><strong>Head Teaching Assistant</strong>, <br class="rwd-break-teach">Economics 10A Microeconomic&nbsp;Theory</span></p>
+<p class="indentteach"><span><strong>Teaching Assistant</strong>, <br class="rwd-break-teach">Economics 10A Microeconomic&nbsp;Theory</span></p>
+<p class="indentteach"><span><strong>Teaching Assistant</strong>, <br class="rwd-break-teach">Economics 134A Financial&nbsp;Management</span></p>
 
 
 

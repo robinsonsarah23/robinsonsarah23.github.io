@@ -30,13 +30,19 @@ body {
 	padding: 10px 0 0 0;
 }
 
-// Special indent paragraph
-p.indent {
+// Special indent paragraph, bio
+p.indentbio {
 	margin-left: 70px;
 	margin-bottom: 2px;
 	text-indent: -55px;
 }
 
+// Special indent paragraph, bio
+p.indentteach {
+	margin-left: 30px;
+	margin-bottom: 2px;
+	text-indent: -30px;
+}
 
 // Container for picture and bio
 .profile {
@@ -362,9 +368,14 @@ html {
 	}
 }
 
+// At a certain point, break up teaching evenly
+@media print, screen and (min-width: 500px) {
+	.rwd-break-teach {display: none;}
+}
+
 // At a certain point, break up education evenly
 @media print, screen and (min-width: 445px) {
-	.rwd-break {display: none;}
+	.rwd-break-bio {display: none;}
 }
 
 // If getting too too small, fixed width
