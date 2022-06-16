@@ -3,7 +3,7 @@ layout: default
 permalink: /about/
 ---
 
-<!--- This is the personal website of Sarah Robinson --->
+<div class="readme" style="visibility:hidden">This is the personal website of Sarah Robinson</div>
 
 # About This Page
 
