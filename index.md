@@ -17,10 +17,10 @@ label: home
 <p class="indent"><img src="./assets/images/twitter.png" alt="" width="22" height="18"/> &nbsp; <a href="https://twitter.com/RobinsonSarah_" > @RobinsonSarah_</a></p>
 
 #### Education & Experience:
-<p class="indent"><img src="./assets/images/education.png" alt="" width="22" height="19" /> &nbsp; <span>PhD&nbsp;in&nbsp;Economics, <br class="rwd-break">UC&nbsp;Santa&nbsp;Barbara <br class="rwd-break"><em>(In&nbsp;Progress)</em></span></p>
+<p class="indent"><img src="./assets/images/education.png" alt="" width="22" height="19" /> &nbsp; <span>PhD&nbsp;in&nbsp;Economics, <br class="rwd-break">UC&nbsp;Santa&nbsp;Barbara <br class="rwd-break"><em>(in&nbsp;progress)</em></span></p>
 <p class="indent"><img src="./assets/images/education.png" alt="" width="22" height="19"/> &nbsp; <span>MA&nbsp;in&nbsp;Economics, <br class="rwd-break">UC&nbsp;Santa&nbsp;Barbara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
 <p class="indent"><img src="./assets/images/work.png" alt="" width="22" height="17" /> &nbsp; <span>Deloitte&nbsp;Consulting&nbsp;LLP, <br class="rwd-break">Strategy&nbsp;&&nbsp;Operations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
-<p class="indent"><img src="./assets/images/education.png" alt="" width="22" height="19"/> &nbsp; BA&nbsp;in&nbsp;Philosophy, Politics,&nbsp;and&nbsp;Economics, Claremont&nbsp;McKenna&nbsp;College&nbsp;</p>
+<p class="indent"><img src="./assets/images/education.png" alt="" width="22" height="19"/> &nbsp; BA&nbsp;in&nbsp;Philosophy, Politics,&nbsp;and&nbsp;Economics, <em>magna&nbsp;cum&nbsp;laude</em>, Claremont&nbsp;McKenna&nbsp;College&nbsp;</p>
 
 
 ## Working Papers
@@ -42,9 +42,21 @@ label: home
 >Proposal approved by the Census Bureau; under&nbsp;IRS&nbsp;review
 
 
+## Teaching Experience
+
+*Average rating 1.3 (1 = highest, 5 = lowest)*
+
+**Instructor**, PhD Math Camp  
+**Head Teaching Assistant**, Economics 10A Microeconomic Theory  
+**Teaching Assistant**, Economics 10A Microeconomic Theory  
+**Teaching Assistant**, Economics 134A Financial Management  
+
+
+
+
 ## Resources
 Teaching Materials
-* [Math Camp (PhD)](./teaching/mathcamp)
+* [PhD Math Camp](./teaching/mathcamp)
 
 Study Guides
 * <a href="./resources/210A Study Guide v39.pdf">ECON 210A PDF </a> \| <a href="./resources/210A v39.zip" download>LaTeX</a> &nbsp; (1st&nbsp;Year&nbsp;Micro&nbsp;Fall -- Consumption &&nbsp;Production)  
