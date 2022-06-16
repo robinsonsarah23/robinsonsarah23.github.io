@@ -238,7 +238,7 @@ html {
 }
 
 // If narrower than (section left = 400) + (section width = 740) + (new section padding right = 50) OR shorter than sidebar, put sidebar on top
-@media print, screen and (max-width: 1190px), (max-height:575px)  {
+@media print, screen and (max-width: 1190px), (max-height:650px)  {
 	div.wrapper {
 		width:auto;
 		margin:0;
