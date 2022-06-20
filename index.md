@@ -17,10 +17,10 @@ label: home
 <p class="indentbio"><img src="./assets/images/twitter.png" alt="" width="22" height="18"/> &nbsp; <a href="https://twitter.com/RobinsonSarah_" > @RobinsonSarah_</a></p>
 
 #### Education & Experience:
-<p class="indentbio"><img src="./assets/images/education.png" alt="" width="22" height="19" /> &nbsp; <span>PhD&nbsp;in&nbsp;Economics, <br class="rwd-break-bio">UC&nbsp;Santa&nbsp;Barbara <br class="rwd-break-bio"><em>(in&nbsp;progress)</em></span></p>
-<p class="indentbio"><img src="./assets/images/education.png" alt="" width="22" height="19"/> &nbsp; <span>MA&nbsp;in&nbsp;Economics, <br class="rwd-break-bio">UC&nbsp;Santa&nbsp;Barbara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
-<p class="indentbio"><img src="./assets/images/work.png" alt="" width="22" height="17" /> &nbsp; <span>Deloitte&nbsp;Consulting&nbsp;LLP, <br class="rwd-break-bio">Strategy&nbsp;&&nbsp;Operations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
-<p class="indentbio"><img src="./assets/images/education.png" alt="" width="22" height="19"/> &nbsp; BA&nbsp;in&nbsp;Philosophy, Politics,&nbsp;and&nbsp;Economics, <em>magna&nbsp;cum&nbsp;laude</em>, Claremont&nbsp;McKenna&nbsp;College&nbsp;</p>
+<p class="indentbio"><img src="./assets/images/education.png" alt="" width="22" height="19" /> &nbsp; PhD&nbsp;in&nbsp;Economics, UC&nbsp;Santa&nbsp;Barbara<em> (in&nbsp;progress)</em></p>
+<p class="indentbio"><img src="./assets/images/education.png" alt="" width="22" height="19"/> &nbsp; MA&nbsp;in&nbsp;Economics, UC&nbsp;Santa&nbsp;Barbara&nbsp;</p>
+<p class="indentbio"><img src="./assets/images/work.png" alt="" width="22" height="17" /> &nbsp; Deloitte&nbsp;Consulting&nbsp;LLP, Strategy&nbsp;&&nbsp;Operations</p>
+<p class="indentbio"><img src="./assets/images/education.png" alt="" width="22" height="19"/> &nbsp; BA&nbsp;in&nbsp;Philosophy, Politics,&nbsp;and&nbsp;Economics, <em>magna&nbsp;cum&nbsp;laude</em>, Claremont&nbsp;McKenna&nbsp;College</p>
 
 
 ## Working Papers
