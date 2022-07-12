@@ -39,7 +39,7 @@ label: home
 
 
 **"Employer Choice of Health Insurance Plans and Premium&nbsp;Sharing"**
->Proposal approved by the Census Bureau; under&nbsp;IRS&nbsp;review
+>Proposal approved by the Census Bureau and IRS; SSS application&nbsp;pending
 
 
 ## Teaching Experience
