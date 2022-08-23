@@ -11,7 +11,7 @@
 	--main-color: #232323;
 	--bar-bg-color: #003362;
 	--bar-color: #FFFFFF;
-	--default-width: 740px;
+	--default-width: 750px;
 }
 
 
@@ -116,7 +116,7 @@ blockquote {
 // Hyperlink color and font weight
 a {
 	color: var(--bar-bg-color);
-	font-weight:500;
+	font-weight:400;
 }
 
 // Make normal bold same weight as hyperlinks
@@ -261,8 +261,8 @@ html {
 	-webkit-text-size-adjust: 100%;
 }
 
-// If narrower than (section left=400) + (section width=740) + (section padding right=100), reduce padding-right
-@media print, screen and (max-width: 1540px) {
+// If narrower than (section left=400) + (section width=750) + (section padding right=100), reduce padding-right
+@media print, screen and (max-width: 1550px) {
 	section {
 		padding-right:50px;
 		margin: 0px 0px 0px 0px;
@@ -270,8 +270,8 @@ html {
 }
 
 
-// If narrower than (section left=400) + (section width=740) + (new section padding right=50) + (mystery 15px??) OR shorter than sidebar, put sidebar on top
-@media print, screen and (max-width: 1205px), (max-height:535px)   {
+// If narrower than (section left=400) + (section width=750) + (new section padding right=50) + (mystery 15px??) OR shorter than sidebar, put sidebar on top
+@media print, screen and (max-width: 1215px), (max-height:535px)   {
 	div.wrapper {
 		width:auto;
 		margin:0;
@@ -345,8 +345,8 @@ html {
 
 }
 
-// If narrower than (new section padding right=100) + (new section padding left=100) + (section width=740) + (mystery 15px??), shrink side paddings
-@media print, screen and (max-width: 955px) {
+// If narrower than (new section padding right=100) + (new section padding left=100) + (section width=750) + (mystery 15px??), shrink side paddings
+@media print, screen and (max-width: 965px) {
 
   	footer {
 		margin:auto;
@@ -375,8 +375,8 @@ html {
 
 }
 
-// If narrower than (new section padding right = 20) + (new section padding left = 20) + (section width = 740) + (mystery 15px??), auto width
-@media print, screen and (max-width: 795px) {
+// If narrower than (new section padding right = 20) + (new section padding left = 20) + (section width = 750) + (mystery 15px??), auto width
+@media print, screen and (max-width: 805px) {
 
  	section {
 		padding: 10px 20px 20px 20px;
