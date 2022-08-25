@@ -1,5 +1,6 @@
 _site
 .jekyll-cache
+**/.DS_Store
 Robinson_CV.aux
 Robinson_CV.out
 Robinson_CV.synctex.gz
