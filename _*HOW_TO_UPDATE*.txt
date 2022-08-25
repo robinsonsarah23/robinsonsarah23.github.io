@@ -3,7 +3,8 @@
 HOW TO UPDATE
 *************
 
-Terminal: cd /Users/SarahRobinson/Documents/GitHub/robinsonsarah23.github.io
+Terminal: 
+cd /Users/SarahRobinson/Documents/GitHub/robinsonsarah23.github.io
 
 Terminal: bundle exec jekyll serve
 
