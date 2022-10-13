@@ -24,7 +24,12 @@
         <div class="buttons">
           <div class="firstbutton">
             <ul>
-              <li ><a class="buttons" href="./Robinson_CV.pdf">CV</a></li>
+              {% if page.label=="home" %}
+                <li ><a class="buttons" href="./Robinson_CV.pdf" target="_blank">CV</a></li>
+              {% endif %}
+              {% if page.label!="home" %}
+                <li ><a class="buttons" href="../Robinson_CV.pdf" target="_blank">CV</a></li>
+              {% endif %}
             </ul>
           </div>
           <ul>

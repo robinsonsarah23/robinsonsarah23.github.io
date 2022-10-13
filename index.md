@@ -7,14 +7,15 @@ label: home
   <div class="profile">
     <img src="./assets/images/profile.jpg" alt="Profile Photo" width="250" height="289" style="margin:0; padding:0;"/>
   </div>
-  <p>I am a PhD Candidate in Economics at the University of California Santa Barbara and a NBER Pre&#8209;Doctoral Fellow in Aging and&nbsp;Health. <br><br>
-  My research focuses on health economics and public economics. You&nbsp;can&nbsp;find my <a style="font-weight:bold" href="./Robinson_CV.pdf">CV&nbsp;here</a>.</p>
+  <p>I am a PhD Candidate in Economics at the University of California Santa Barbara. I am broadly interested in health economics and public economics, with a current focus in employer-sponsored health insurance. <br><br>
+  I will be on the 2022-2023 job market and available for interviews. You&nbsp;can&nbsp;find my <a style="font-weight:bold" href="./Robinson_CV.pdf" target="_blank">CV&nbsp;here</a>.</p>
 </div>
 
 
 #### Contact Information:
 <p class="indentbio"><img src="./assets/images/email.png" alt="" width="22" height="16"/> &nbsp; sarahrobinson@ucsb.edu </p>
-<p class="indentbio"><img src="./assets/images/twitter.png" alt="" width="22" height="18"/> &nbsp; <a href="https://twitter.com/RobinsonSarah_" > @RobinsonSarah_</a></p>
+<p class="indentbio"><img src="./assets/images/phone.png" alt="" width="22" height="16"/> &nbsp; (805) 316-1377 </p>
+<p class="indentbio"><img src="./assets/images/twitter.png" alt="" width="22" height="18"/> &nbsp; <a href="https://twitter.com/RobinsonSarah_" target="_blank"> @RobinsonSarah_</a></p>
 
 #### Education & Experience:
 <p class="indentbio"><img src="./assets/images/education.png" alt="" width="22" height="19" /> &nbsp; PhD&nbsp;in&nbsp;Economics, UC&nbsp;Santa&nbsp;Barbara<em> (in&nbsp;progress)</em></p>
@@ -25,29 +26,29 @@ label: home
 
 ## Working Papers
 
-<a style="font-weight:bold" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4083336">"Corporate Political Spending and State Tax Policy: Evidence from *Citizens United"*</a> (with&nbsp;[Cailin&nbsp;Slattery](https://cailinslattery.com) and [Alisa&nbsp;Tazhitdinova](https://alisatns.weebly.com)) &mdash; [NBER Working Paper 30352](https://www.nber.org/papers/w30352) &mdash; Featured in: [Wall Street Journal](https://www.wsj.com/articles/citizens-united-bought-nothing-state-tax-policy-nber-study-supreme-court-11660850148), [Harvard Law School Forum on Corporate Governance (non-technical summary)](https://corpgov.law.harvard.edu/2022/08/31/corporate-political-spending-and-state-tax-policy-evidence-from-citizens-united/)
-> To what extent is U.S. state tax policy affected by corporate political contributions? The 2010 Supreme Court Citizens United v. Federal Election Commission ruling provides an exogenous shock to corporate campaign spending, allowing corporations to spend on elections in 23 states which previously had spending bans. Ten years after the ruling and for a wide range of outcomes, we are not able to identify economically or statistically significant effects of corporate independent expenditures on state tax policy, including tax rates, discretionary tax breaks, and tax revenues.
+<p style="font-weight:bold">[JOB MARKET PAPER] <br> "Do Firms Avoid Health Insurance Mandates? Evidence from the Self-Funding of Employer Plans </p>
+> 
 
-<a style="font-weight:bold" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4035979">"What Drives Tax Policy? Political and Economic Determinants of State Tax Policy in the Past 70 Years"</a> (with&nbsp;[Alisa&nbsp;Tazhitdinova](https://alisatns.weebly.com))
+<a style="font-weight:bold" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4035979" target="_blank">"What Drives Tax Policy? Political and Economic Determinants of State Tax Policy in the Past 70 Years"</a> (with&nbsp;<a href="https://alisatns.weebly.com" target="_blank">Alisa&nbsp;Tazhitdinova</a>)
 > We study U.S. state tax rules over the past 70 years to shed light on the determinants of U.S. state tax policy, generating three key results. First, we show that long-term tax trends are not consistent with Tiebout sorting and race-to-the-bottom competition models. Second, we document evidence of increasing polarization of tax rates between Democratic and Republican states in the 1970s and from 2000 onward. Third, we use machine learning techniques to show that the timing and magnitude of tax changes are not driven by federal changes, economic needs, state politics, institutional rules, neighbor competition, or demographics. Altogether, these factors explain less than 20% of observed tax variation.
 
-<a style="font-weight:bold" href="https://irle.berkeley.edu/files/2022/05/rrs_csection_version_davefest.pdf">"Geographic Variation in C-Sections in the United States: Trends, Correlates and Other Interesting Facts"</a> (with&nbsp;[Heather&nbsp;Royer](https://sites.google.com/site/heathernroyer/) and [David&nbsp;Silver](https://sites.google.com/site/silverdw/))
-> We use United States detailed natality data for 1991-2018 to investigate county-level geographic disparities in the use of C&#8209;section. We document time trends in C&#8209;section use, geographic variation in usage across low- and high C&#8209;section risk mothers across time, how geographic variation in C&#8209;section correlates with geographic variation in Medicare spending, and how the geographic variation in C&#8209;sections corresponds to geographic variation in outcomes. Among first-birth mothers, geographic disparities in C&#8209;section usage exhibit considerable persistence over time. A county’s C&#8209;section rate is positively correlated with its level of Medicare spending. C&#8209;section usage among counties is correlated across risk types — with high C&#8209;section counties performing more C&#8209;sections for high-risk mothers and low-risk first-birth mothers. Across the range of C&#8209;section propensities, mothers giving birth in high C&#8209;section counties fare the best in terms of lower rates of maternal and infant morbidity.
+<a style="font-weight:bold" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4083336" target="_blank">"Corporate Political Spending and State Tax Policy: Evidence from *Citizens United"*</a> (with&nbsp;<a href="https://cailinslattery.com" target="_blank">Cailin&nbsp;Slattery</a> and <a href="https://alisatns.weebly.com" target="_blank">Alisa&nbsp;Tazhitdinova</a>) &mdash; <a href="https://www.nber.org/papers/w30352" target="_blank">NBER Working Paper 30352</a> &mdash; Featured in: <a href="https://www.wsj.com/articles/citizens-united-bought-nothing-state-tax-policy-nber-study-supreme-court-11660850148" target="_blank">Wall Street Journal</a>, <a href="https://corpgov.law.harvard.edu/2022/08/31/corporate-political-spending-and-state-tax-policy-evidence-from-citizens-united/" target="_blank">Harvard Law School Forum on Corporate Governance (non-technical summary)</a>
+> To what extent is U.S. state tax policy affected by corporate political contributions? The 2010 Supreme Court Citizens United v. Federal Election Commission ruling provides an exogenous shock to corporate campaign spending, allowing corporations to spend on elections in 23 states which previously had spending bans. Ten years after the ruling and for a wide range of outcomes, we are not able to identify economically or statistically significant effects of corporate independent expenditures on state tax policy, including tax rates, discretionary tax breaks, and tax revenues.
+
+<a style="font-weight:bold" href="./research/rrs_csection_final.pdf" target="_blank">"Geographic Variation in C-Sections in the United States: Trends, Correlates and Other Interesting Facts"</a> (with&nbsp;<a href="https://sites.google.com/site/heathernroyer/" target="_blank">Heather&nbsp;Royer</a> and <a href="https://sites.google.com/site/silverdw/" target="_blank">David&nbsp;Silver</a>)
+> We use U.S. natality data from 1989 to 2017 to investigate county-level geographic disparities in the use of C&#8209;section among ﬁrst-birth singleton mothers. We document the existence and persistence of geographic variation in C&#8209;section across low and high- C&#8209;section risk mothers, the degree to which this variation correlates with Medicare spending, and the sensitivity of C&#8209;section use and infant and maternal health outcomes to C&#8209;section risk across counties. Our key ﬁnding is that counties with high C&#8209;section rates perform more C&#8209;sections across the entirety of the risk distribution yet have nearly equivalent or better outcomes than counties with less intensive C&#8209;section rates.
 
 ## Work in Progress
 
-**"The Effect of State Insurance Mandates on Employers' Choice to Self&nbsp;Insure"**
-
-
-**"Employer Choice of Health Insurance Plans and Premium&nbsp;Sharing"**
->Proposal approved by the Census Bureau and IRS; SSS application&nbsp;pending
+**"Employer Choice of Health Insurance Plans and Premium&nbsp;Sharing"** <br>
+*(proposal approved by the Census Bureau and IRS; pending Special Sworn Status)*
 
 
 ## Teaching Experience
 
 *Average rating 1.3 (1&nbsp;=&nbsp;highest,&nbsp;5&nbsp;=&nbsp;lowest)*
 
-<p class="indentteach"><span><strong>Instructor</strong>, <br class="rwd-break-teach">PhD&nbsp;Math&nbsp;Camp</span></p>
+<p class="indentteach"><span><strong>Instructor</strong>, <br class="rwd-break-teach">Math&nbsp;Camp for PhD&nbsp;Students</span></p>
 <p class="indentteach"><span><strong>Head Teaching Assistant</strong>, <br class="rwd-break-teach">Economics 10A Microeconomic&nbsp;Theory</span></p>
 <p class="indentteach"><span><strong>Teaching Assistant</strong>, <br class="rwd-break-teach">Economics 10A Microeconomic&nbsp;Theory</span></p>
 <p class="indentteach"><span><strong>Teaching Assistant</strong>, <br class="rwd-break-teach">Economics 134A Financial&nbsp;Management</span></p>
@@ -56,8 +57,8 @@ label: home
 
 ## Resources
 Teaching Materials
-* [PhD Math Camp](./teaching/mathcamp)
+* <a href="./teaching/mathcamp">PhD Math Camp</a>
 
 Study Guides
-* <a href="./resources/210A Study Guide v39.pdf">ECON 210A PDF </a> \| <a href="./resources/210A v39.zip" download>LaTeX</a> &nbsp; (1st&nbsp;Year&nbsp;Micro&nbsp;Fall -- Consumption &&nbsp;Production)  
-* <a href="./resources/210B Study Guide v18.pdf">ECON 210B PDF </a> \| <a href="./resources/210B Study Guide v18.tex" download>LaTeX</a> &nbsp; (1st&nbsp;Year&nbsp;Micro&nbsp;Winter -- Game&nbsp;Theory) 
+* <a href="./resources/210A Study Guide v39.pdf" target="_blank">ECON 210A PDF</a> \| <a href="./resources/210A v39.zip" download>LaTeX</a> &nbsp; (1st&nbsp;Year&nbsp;Micro&nbsp;Fall -- Consumption &&nbsp;Production)  
+* <a href="./resources/210B Study Guide v18.pdf" target="_blank">ECON 210B PDF</a> \| <a href="./resources/210B Study Guide v18.tex" download>LaTeX</a> &nbsp; (1st&nbsp;Year&nbsp;Micro&nbsp;Winter -- Game&nbsp;Theory) 

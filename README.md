@@ -11,13 +11,14 @@ permalink: /about/
 
 
 
-Hosted on [Github Pages](https://pages.github.com)
+Hosted on <a href="https://pages.github.com" target="_blank">Github Pages</a>
 
-Powered by [Jekyll](https://jekyllrb.com)
+Powered by <a href="https://jekyllrb.com" target="_blank">Jekyll</a>
 
-Style modified from the [Dinky theme](https://github.com/pages-themes/dinky)
+Style modified from the <a href="https://github.com/pages-themes/dinky" target="_blank">Dinky theme</a>
 
-Icons from [the Noun Project](http://thenounproject.com/)
+Icons from <a href="http://thenounproject.com/" target="_blank">Noun Project</a>
 * "Email" by Aybige
+* "Phone" by Vincencio
 * "Graduation Hat" by SUBAIDA
 * "Briefcase" by Creative Stall
