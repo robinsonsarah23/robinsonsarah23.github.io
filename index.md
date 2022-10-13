@@ -26,7 +26,7 @@ label: home
 
 ## Working Papers
 
-<p style="font-weight:bold">[JOB MARKET PAPER] <br> "Do Firms Avoid Health Insurance Mandates? Evidence from the Self-Funding of Employer Plans </p>
+<p style="font-weight:bold">[JOB MARKET PAPER] <br> "Do Firms Avoid Health Insurance Mandates? Evidence from the Self-Funding of Employer Plans" </p>
 > 
 
 <a style="font-weight:bold" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4035979" target="_blank">"What Drives Tax Policy? Political and Economic Determinants of State Tax Policy in the Past 70 Years"</a> (with&nbsp;<a href="https://alisatns.weebly.com" target="_blank">Alisa&nbsp;Tazhitdinova</a>)
