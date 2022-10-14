@@ -7,7 +7,7 @@ label: home
   <div class="profile">
     <img src="./assets/images/profile.jpg" alt="Profile Photo" width="250" height="289" style="margin:0; padding:0;"/>
   </div>
-  <p>I am a PhD Candidate in Economics at the University of California Santa Barbara. I am broadly interested in health economics and public economics, with a current focus in employer-sponsored health insurance. <br><br>
+  <p>I am a PhD Candidate in Economics at the University of California Santa Barbara. My research interests are broadly in health economics and public economics, with a current focus in employer-sponsored health insurance. <br><br>
   I will be on the 2022-2023 job market and available for interviews. You&nbsp;can&nbsp;find my <a style="font-weight:bold" href="./Robinson_CV.pdf" target="_blank">CV&nbsp;here</a>.</p>
 </div>
 
@@ -26,7 +26,7 @@ label: home
 
 ## Working Papers
 
-<p style="font-weight:bold">[JOB MARKET PAPER] <br> "Do Firms Avoid Health Insurance Mandates? Evidence from the Self-Funding of Employer Plans" </p>
+**[JOB MARKET PAPER] <br> "Do Firms Avoid Health Insurance Mandates? Evidence from the Self-Funding of Employer Plans"**
 > 
 
 <a style="font-weight:bold" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4035979" target="_blank">"What Drives Tax Policy? Political and Economic Determinants of State Tax Policy in the Past 70 Years"</a> (with&nbsp;<a href="https://alisatns.weebly.com" target="_blank">Alisa&nbsp;Tazhitdinova</a>)
@@ -40,18 +40,18 @@ label: home
 
 ## Work in Progress
 
-**"Employer Choice of Health Insurance Plans and Premium&nbsp;Sharing"** <br>
+"Employer Choice of Health Insurance Plans and Premium&nbsp;Sharing" <br>
 *(proposal approved by the Census Bureau and IRS; pending Special Sworn Status)*
 
 
 ## Teaching Experience
 
-*Average rating 1.3 (1&nbsp;=&nbsp;highest,&nbsp;5&nbsp;=&nbsp;lowest)*
+*&#42; Average rating 1.3 (1&nbsp;=&nbsp;highest,&nbsp;5&nbsp;=&nbsp;lowest)*
 
-<p class="indentteach"><span><strong>Instructor</strong>, <br class="rwd-break-teach">Math&nbsp;Camp for PhD&nbsp;Students</span></p>
-<p class="indentteach"><span><strong>Head Teaching Assistant</strong>, <br class="rwd-break-teach">Economics 10A Microeconomic&nbsp;Theory</span></p>
-<p class="indentteach"><span><strong>Teaching Assistant</strong>, <br class="rwd-break-teach">Economics 10A Microeconomic&nbsp;Theory</span></p>
-<p class="indentteach"><span><strong>Teaching Assistant</strong>, <br class="rwd-break-teach">Economics 134A Financial&nbsp;Management</span></p>
+<p class="indentteach"><span>Instructor &mdash; <br class="rwd-break-teach">Math&nbsp;Camp for PhD&nbsp;Students</span></p>
+<p class="indentteach"><span>Head Teaching Assistant &mdash; <br class="rwd-break-teach">Economics 10A Microeconomic&nbsp;Theory</span></p>
+<p class="indentteach"><span>Teaching Assistant &mdash; <br class="rwd-break-teach">Economics 10A Microeconomic&nbsp;Theory</span></p>
+<p class="indentteach"><span>Teaching Assistant &mdash; <br class="rwd-break-teach">Economics 134A Financial&nbsp;Management</span></p>
 
 
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.29)  12 OCT 2022 23:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.29)  13 OCT 2022 18:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -524,12 +524,12 @@ Package lastpage Info: Please have a look at the pageslts package at
 (/usr/local/texlive/2022/texmf-dist/tex/latex/fmtcount/fc-english.def
 File: fc-english.def 2016/01/12
 )
-Overfull \hbox (55.97571pt too wide) in paragraph at lines 301--301
+Overfull \hbox (55.97571pt too wide) in paragraph at lines 302--302
 []|[][] 
  []
 
 
-Overfull \hbox (55.97571pt too wide) in paragraph at lines 301--301
+Overfull \hbox (55.97571pt too wide) in paragraph at lines 302--302
 []|[][] 
  []
 
@@ -584,7 +584,7 @@ Package rerunfilecheck Info: File `Robinson_CV.out' has not changed.
 Here is how much of TeX's memory you used:
  11309 strings out of 478268
  178417 string characters out of 5846347
- 527108 words of memory out of 5000000
+ 527136 words of memory out of 5000000
  29355 multiletter control sequences out of 15000+600000
  474686 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -594,7 +594,7 @@ Here is how much of TeX's memory you used:
 ></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></us
 r/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Robinson_CV.pdf (3 pages, 94021 bytes).
+Output written on Robinson_CV.pdf (3 pages, 93759 bytes).
 PDF statistics:
  50 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream

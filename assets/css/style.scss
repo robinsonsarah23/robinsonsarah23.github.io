@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Lora:400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Lora:400,500,600,700,800');
 
 
 /* VARIABLES */
@@ -121,7 +121,7 @@ a {
 
 // Make normal bold same weight as hyperlinks
 strong {
-	font-weight:500;
+	font-weight:600;
 }
 
 
