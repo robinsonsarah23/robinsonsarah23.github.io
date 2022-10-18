@@ -5,7 +5,7 @@ label: home
 
 <div class="bio">
   <div class="profile">
-    <img src="./assets/images/profile.jpg" alt="Profile Photo" width="250" height="289" style="margin:0; padding:0;"/>
+    <img src="./assets/images/profile.jpg" alt="Profile Photo" width="250" height="293" style="margin:0; padding:0;"/>
   </div>
   <p>I am a PhD Candidate in Economics at the University of California Santa Barbara. My research interests are broadly in health economics and public economics, with a current focus in employer-sponsored health insurance. <br><br>
   I will be on the 2022-2023 job market and available for interviews. You&nbsp;can&nbsp;find my <a style="font-weight:bold" href="./Robinson_CV.pdf" target="_blank">CV&nbsp;here</a>.</p>
@@ -27,7 +27,7 @@ label: home
 ## Working Papers
 
 **[JOB MARKET PAPER] <br> "Do Firms Avoid Health Insurance Mandates? Evidence from the Self-Funding of Employer Plans"**
-> 
+> Fifty percent of the US gets health insurance through an employer. Thus, which plan(s) the firm offers limits the choices available to individuals, and these firm decisions are the mechanism through which policy can increase welfare. However, little is known about how firms decide what to offer. This paper focuses on an important dimension of the firm's decision: whether to self-fund their health insurance benefits. Unlike fully insured firms, self-funded firms are exempt from all state-level regulations of health insurance. I study whether firms use self-funding to avoid complying with regulations that insurance must cover specific benefits. Using administrative data on the health plans offered by firms and a difference-in-differences identification strategy, I estimate the effect of state mandated benefits on self-funding rates among firms. I find that mandates substantially increase self-funding among smaller firms (100-250 employees). The mandates do not appear to affect larger firms (250+ employees), who are more likely to be already self-funded in the pre-period.
 
 <a style="font-weight:bold" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4035979" target="_blank">"What Drives Tax Policy? Political and Economic Determinants of State Tax Policy in the Past 70 Years"</a> (with&nbsp;<a href="https://alisatns.weebly.com" target="_blank">Alisa&nbsp;Tazhitdinova</a>)
 > We study U.S. state tax rules over the past 70 years to shed light on the determinants of U.S. state tax policy, generating three key results. First, we show that long-term tax trends are not consistent with Tiebout sorting and race-to-the-bottom competition models. Second, we document evidence of increasing polarization of tax rates between Democratic and Republican states in the 1970s and from 2000 onward. Third, we use machine learning techniques to show that the timing and magnitude of tax changes are not driven by federal changes, economic needs, state politics, institutional rules, neighbor competition, or demographics. Altogether, these factors explain less than 20% of observed tax variation.
@@ -48,10 +48,12 @@ label: home
 
 *&#42; Average rating 1.3 (1&nbsp;=&nbsp;highest,&nbsp;5&nbsp;=&nbsp;lowest)*
 
-<p class="indentteach"><span>Instructor &mdash; <br class="rwd-break-teach">Math&nbsp;Camp for PhD&nbsp;Students</span></p>
-<p class="indentteach"><span>Head Teaching Assistant &mdash; <br class="rwd-break-teach">Economics 10A Microeconomic&nbsp;Theory</span></p>
-<p class="indentteach"><span>Teaching Assistant &mdash; <br class="rwd-break-teach">Economics 10A Microeconomic&nbsp;Theory</span></p>
-<p class="indentteach"><span>Teaching Assistant &mdash; <br class="rwd-break-teach">Economics 134A Financial&nbsp;Management</span></p>
+<p class="indentteach"><span>Instructor <br class="rwd-break-teach">&mdash;
+Math&nbsp;Camp for PhD&nbsp;Students</span></p>
+<p class="indentteach"><span>Head Teaching Assistant <br class="rwd-break-teach">&mdash;
+Economics 10A Microeconomic&nbsp;Theory</span></p>
+<p class="indentteach"><span>Teaching Assistant <br class="rwd-break-teach">&mdash;Economics 10A Microeconomic&nbsp;Theory</span></p>
+<p class="indentteach"><span>Teaching Assistant <br class="rwd-break-teach">&mdash;Economics 134A Financial&nbsp;Management</span></p>
 
 
 
