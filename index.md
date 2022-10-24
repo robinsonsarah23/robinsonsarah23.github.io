@@ -41,7 +41,7 @@ label: home
 ## Work in Progress
 
 "Employer Choice of Health Insurance Plans and Premium&nbsp;Sharing" <br>
-*(proposal approved by the Census Bureau and IRS; pending Special Sworn Status)*
+*(FSRDC project approved by U.S. Census Bureau and IRS; Special Sworn Status granted)*
 
 
 ## Teaching Experience
