@@ -48,12 +48,10 @@ label: home
 
 *&#42; Average rating 1.3 (1&nbsp;=&nbsp;highest,&nbsp;5&nbsp;=&nbsp;lowest)*
 
-<p class="indentteach"><span>Instructor <br class="rwd-break-teach">&mdash;
-Math&nbsp;Camp for PhD&nbsp;Students</span></p>
-<p class="indentteach"><span>Head Teaching Assistant <br class="rwd-break-teach">&mdash;
-Economics 10A Microeconomic&nbsp;Theory</span></p>
-<p class="indentteach"><span>Teaching Assistant <br class="rwd-break-teach">&mdash;Economics 10A Microeconomic&nbsp;Theory</span></p>
-<p class="indentteach"><span>Teaching Assistant <br class="rwd-break-teach">&mdash;Economics 134A Financial&nbsp;Management</span></p>
+<p class="indentteach"><span>Instructor <br class="rwd-break-teach">&mdash; Math&nbsp;Camp for PhD&nbsp;Students</span></p>
+<p class="indentteach"><span>Head Teaching Assistant <br class="rwd-break-teach">&mdash; Economics 10A Microeconomic&nbsp;Theory</span></p>
+<p class="indentteach"><span>Teaching Assistant <br class="rwd-break-teach">&mdash; Economics 10A Microeconomic&nbsp;Theory</span></p>
+<p class="indentteach"><span>Teaching Assistant <br class="rwd-break-teach">&mdash; Economics 134A Financial&nbsp;Management</span></p>
 
 
 
