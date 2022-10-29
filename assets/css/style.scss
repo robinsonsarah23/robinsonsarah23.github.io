@@ -270,8 +270,8 @@ html {
 }
 
 
-// If narrower than (section left=400) + (section width=750) + (new section padding right=50) + (mystery 15px??) OR shorter than sidebar, put sidebar on top
-@media print, screen and (max-width: 1215px), (max-height:535px)   {
+// If narrower than (section left=400) + (section width=750) + (new section padding right=50) OR shorter than sidebar, put sidebar on top
+@media print, screen and (max-width: 1200px), (max-height:535px)   {
 	div.wrapper {
 		width:auto;
 		margin:0;
@@ -345,8 +345,8 @@ html {
 
 }
 
-// If narrower than (new section padding right=100) + (new section padding left=100) + (section width=750) + (mystery 15px??), shrink side paddings
-@media print, screen and (max-width: 965px) {
+// If narrower than (new section padding right=100) + (new section padding left=100) + (section width=750), shrink side paddings
+@media print, screen and (max-width: 950px) {
 
   	footer {
 		margin:auto;
@@ -360,13 +360,13 @@ html {
 
   	header {
 		margin-right: auto;
-		width: 790px;
+		width: 800px;
   	}
 	 
 }
 
 // If narrower than (new header width) + (70 on left) + (20 on right) + (mystery 15px??), shrink header size 
-@media print, screen and (max-width: 895px) {
+@media print, screen and (max-width: 905px) {
 
  	header {
 		margin-right: 20px;
