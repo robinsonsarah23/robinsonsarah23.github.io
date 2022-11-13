@@ -53,6 +53,12 @@ label: home
 <p class="indentteach"><span>Teaching Assistant <br class="rwd-break-teach">&mdash; Economics 10A Microeconomic&nbsp;Theory</span></p>
 <p class="indentteach"><span>Teaching Assistant <br class="rwd-break-teach">&mdash; Economics 134A Financial&nbsp;Management</span></p>
 
+<br> Feedback from student evaluations:
+* *“Great interactive teaching skills”*
+* *“She helped me understand the class better (ex: visualization of mathematical concepts)”*
+* *"She provides really good strategies for tackling hard problems and alternate ways of solving things"*
+* *“Particularly good at explaining what to provide and why for each proof, and the intuition for each step of analysis. Also great at describing applications of abstract concepts”*
+* *“She explains things perfectly, I go from knowing nothing to everything after section, I wish she was the professor. Don’t change anything, give her a promotion, she’s the best”*
 
 
 ## Resources
