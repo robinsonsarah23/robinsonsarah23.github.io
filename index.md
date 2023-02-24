@@ -7,26 +7,20 @@ label: home
   <div class="profile">
     <img src="./assets/images/profile.jpg" alt="Profile Photo" width="235" height="275" style="margin:0; padding:0;"/>
   </div>
-  <p><br>I am a PhD Candidate in Economics at the University of California Santa Barbara. My research interests are broadly in health economics and public economics. Currently, I am particularly interested in how firms make decisions about the health insurance they offer to workers. <br><br>
-  I will be joining Claremont McKenna College as an Assistant Professor of Economics in the fall. You&nbsp;can find my <a style="font-weight:bold" href="./Robinson_CV.pdf" target="_blank">CV&nbsp;here</a>.</p>
+  <p><br>I am a PhD Candidate in Economics at the University of California Santa Barbara. I will be joining Claremont McKenna College as an Assistant Professor of Economics in Fall 2023. <br><br>
+  My research interests are broadly in health economics and public economics. Currently, I am particularly interested in how firms make decisions about the health insurance they offer to workers. <br><br>
+
+  <img src="./assets/images/email.png" alt="" width="22" height="16"/> &nbsp; sarahrobinson@ucsb.edu <br>
+  <img src="./assets/images/cv.png" alt="" width="22" height="22"/> &nbsp; <a style="font-weight:normal" href="./Robinson_CV.pdf" target="_blank">CV</a><br>
+  <img src="./assets/images/twitter.png" alt="" width="22" height="18"/> &nbsp; <a href="https://twitter.com/RobinsonSarah_" target="_blank"> @RobinsonSarah_</a>
+  </p>
 </div>
-
-
-#### Contact Information:
-<p class="indentbio"><img src="./assets/images/email.png" alt="" width="22" height="16"/> &nbsp; sarahrobinson@ucsb.edu </p>
-<p class="indentbio"><img src="./assets/images/phone.png" alt="" width="22" height="16"/> &nbsp; (805) 316-1377 </p>
-<p class="indentbio"><img src="./assets/images/twitter.png" alt="" width="22" height="18"/> &nbsp; <a href="https://twitter.com/RobinsonSarah_" target="_blank"> @RobinsonSarah_</a></p>
-
-#### Education & Experience:
-<p class="indentbio"><img src="./assets/images/education.png" alt="" width="22" height="19" /> &nbsp; PhD&nbsp;in&nbsp;Economics, UC&nbsp;Santa&nbsp;Barbara<em> (in&nbsp;progress)</em></p>
-<p class="indentbio"><img src="./assets/images/education.png" alt="" width="22" height="19"/> &nbsp; MA&nbsp;in&nbsp;Economics, UC&nbsp;Santa&nbsp;Barbara&nbsp;</p>
-<p class="indentbio"><img src="./assets/images/work.png" alt="" width="22" height="17" /> &nbsp; Deloitte&nbsp;Consulting&nbsp;LLP, Strategy&nbsp;&&nbsp;Operations</p>
-<p class="indentbio"><img src="./assets/images/education.png" alt="" width="22" height="19"/> &nbsp; BA&nbsp;in&nbsp;Philosophy, Politics&nbsp;&&nbsp;Economics, <em>magna&nbsp;cum&nbsp;laude</em>, Claremont&nbsp;McKenna&nbsp;College</p>
 
 
 ## Working Papers
 
-<a style="font-weight:bold" href="./Robinson_JMP.pdf" target="_blank">[JOB MARKET PAPER] <br> "Do Firms Avoid Health Insurance Mandates? Evidence from the Self-Funding of Employer Plans"</a>
+<a style="font-weight:bold" href="./Robinson_JMP.pdf" target="_blank">"Do Firms Avoid Health Insurance Mandates? Evidence from the Self-Funding of Employer Plans"</a><br>
+(Job Market Paper)
 > Fifty percent of the U.S. population gets health insurance through an employer, and roughly half of employers only offer one health plan. Therefore, the choices made by firms about what plan(s) to offer are critical to understanding the health insurance available to workers. This paper focuses on one dimension of the firm's decision: whether to self-fund plans (meaning the firm bears the financial risk of claims itself). I study whether firms use self-funding to avoid complying with mandates to cover specific procedures or providers. Using administrative data on the health plans offered by firms and a difference-in-differences design, I find that new mandates increase rates of self-funding among smaller firms (100-249 employees) by 3.2 percentage points, an increase of 14.5%. The mandates do not appear to affect larger firms (250+ employees), who are more likely to already be self-funded in the pre-period. These results imply that new mandates can lead to long-lasting reductions in the proportion of firms that are bound by any state health insurance regulations, including all previously mandated benefits as well as premium taxes. 
 
 <a style="font-weight:bold" href="./research/Slattery_Tazhitdinova_Robinson_Citizens_United.pdf" target="_blank">"Corporate Political Spending and State Tax Policy: Evidence from *Citizens United"*</a> with&nbsp;<a href="https://cailinslattery.com" target="_blank">Cailin&nbsp;Slattery</a> and <a href="https://alisatns.weebly.com" target="_blank">Alisa&nbsp;Tazhitdinova</a> &mdash; <a href="https://www.nber.org/papers/w30352" target="_blank">NBER Working Paper 30352</a> &mdash; Featured in: <a href="https://www.wsj.com/articles/citizens-united-bought-nothing-state-tax-policy-nber-study-supreme-court-11660850148" target="_blank">Wall Street Journal</a>, <a href="https://corpgov.law.harvard.edu/2022/08/31/corporate-political-spending-and-state-tax-policy-evidence-from-citizens-united/" target="_blank">Harvard Law School Forum on Corporate Governance [non-technical summary]</a> <br>
@@ -37,13 +31,30 @@ label: home
 ***Revise & Resubmit, Journal of Labor Economics***
 > We use U.S. natality data from 1989 to 2017 to investigate county-level geographic disparities in the use of C&#8209;section among ﬁrst-birth singleton mothers. We document the existence and persistence of geographic variation in C&#8209;section across low and high- C&#8209;section risk mothers, the degree to which this variation correlates with Medicare spending, and the sensitivity of C&#8209;section use and infant and maternal health outcomes to C&#8209;section risk across counties. Our key ﬁnding is that counties with high C&#8209;section rates perform more C&#8209;sections across the entirety of the risk distribution yet have nearly equivalent or better outcomes than counties with less intensive C&#8209;section rates.
 
-<a style="font-weight:bold" href="./research/Robinson_Tazhitdinova_Tax_Policy_Determinants.pdf" target="_blank">"What Drives Tax Policy? Political and Economic Determinants of State Tax Policy in the Past 70 Years"</a> with&nbsp;<a href="https://alisatns.weebly.com" target="_blank">Alisa&nbsp;Tazhitdinova</a> (Under&nbsp;Review)
+<a style="font-weight:bold" href="./research/Robinson_Tazhitdinova_Tax_Policy_Determinants.pdf" target="_blank">"What Drives Tax Policy? Political and Economic Determinants of State Tax Policy in the Past 70 Years"</a> with&nbsp;<a href="https://alisatns.weebly.com" target="_blank">Alisa&nbsp;Tazhitdinova</a> (under&nbsp;review)
 > We study U.S. state tax rules over the past 70 years to shed light on the determinants of U.S. state tax policy, generating three key results. First, we show that long-term tax trends are not consistent with Tiebout sorting and race-to-the-bottom competition models. Second, we document evidence of increasing polarization of tax rates between Democratic and Republican states in the 1970s and from 2000 onward. Third, we use machine learning techniques to show that the timing and magnitude of tax changes are not driven by federal changes, economic needs, state politics, institutional rules, neighbor competition, or demographics. Altogether, these factors explain less than 20% of observed tax variation.
+
 
 ## Work in Progress
 
 "Employer Choice of Health Insurance Plans and Premium&nbsp;Sharing" <br>
-*(FSRDC project approved by U.S. Census Bureau and IRS; Special Sworn Status granted)*
+*(Approved FSRDC project)*
+
+
+## Resources
+Teaching Materials
+* <a href="./teaching/mathcamp">PhD Math Camp</a>
+
+Study Guides
+* <a href="./resources/210A Study Guide v39.pdf" target="_blank">ECON 210A PDF</a> \| <a href="./resources/210A v39.zip" download>LaTeX</a> &nbsp; (PhD&nbsp;1st&nbsp;Year&nbsp;Micro&nbsp;Fall -- Consumption &&nbsp;Production)  
+* <a href="./resources/210B Study Guide v18.pdf" target="_blank">ECON 210B PDF</a> \| <a href="./resources/210B Study Guide v18.tex" download>LaTeX</a> &nbsp; (PhD&nbsp;1st&nbsp;Year&nbsp;Micro&nbsp;Winter -- Game&nbsp;Theory) 
+
+<!-- 
+## Education
+<p class="indentbio"><img src="./assets/images/education.png" alt="" width="22" height="19" /> &nbsp; PhD&nbsp;in&nbsp;Economics, UC&nbsp;Santa&nbsp;Barbara<em> (in&nbsp;progress)</em></p>
+<p class="indentbio"><img src="./assets/images/education.png" alt="" width="22" height="19"/> &nbsp; MA&nbsp;in&nbsp;Economics, UC&nbsp;Santa&nbsp;Barbara&nbsp;</p>
+<p class="indentbio"><img src="./assets/images/work.png" alt="" width="22" height="17" /> &nbsp; Deloitte&nbsp;Consulting&nbsp;LLP, Strategy&nbsp;&&nbsp;Operations</p>
+<p class="indentbio"><img src="./assets/images/education.png" alt="" width="22" height="19"/> &nbsp; BA&nbsp;in&nbsp;Philosophy, Politics&nbsp;&&nbsp;Economics, <em>magna&nbsp;cum&nbsp;laude</em>, Claremont&nbsp;McKenna&nbsp;College</p>
 
 
 ## Teaching Experience
@@ -61,12 +72,4 @@ label: home
 * *"She provides really good strategies for tackling hard problems and alternate ways of solving things"*
 * *“Particularly good at explaining what to provide and why for each proof, and the intuition for each step of analysis. Also great at describing applications of abstract concepts”*
 * *“She explains things perfectly, I go from knowing nothing to everything after section, I wish she was the professor. Don’t change anything, give her a promotion, she’s the best”*
-
-
-## Resources
-Teaching Materials
-* <a href="./teaching/mathcamp">PhD Math Camp</a>
-
-Study Guides
-* <a href="./resources/210A Study Guide v39.pdf" target="_blank">ECON 210A PDF</a> \| <a href="./resources/210A v39.zip" download>LaTeX</a> &nbsp; (1st&nbsp;Year&nbsp;Micro&nbsp;Fall -- Consumption &&nbsp;Production)  
-* <a href="./resources/210B Study Guide v18.pdf" target="_blank">ECON 210B PDF</a> \| <a href="./resources/210B Study Guide v18.tex" download>LaTeX</a> &nbsp; (1st&nbsp;Year&nbsp;Micro&nbsp;Winter -- Game&nbsp;Theory) 
+-->
