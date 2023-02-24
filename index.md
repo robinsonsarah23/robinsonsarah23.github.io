@@ -7,8 +7,8 @@ label: home
   <div class="profile">
     <img src="./assets/images/profile.jpg" alt="Profile Photo" width="235" height="275" style="margin:0; padding:0;"/>
   </div>
-  <p>I am a PhD Candidate in Economics at the University of California Santa Barbara. My research interests are broadly in health economics and public economics. Currently, I am particularly interested in how firms make decisions about the health insurance they offer to workers. <br><br>
-  I will be on the 2022-2023 job market and available for interviews. You&nbsp;can find my <a style="font-weight:bold" href="./Robinson_CV.pdf" target="_blank">CV&nbsp;here</a>.</p>
+  <p><br>I am a PhD Candidate in Economics at the University of California Santa Barbara. My research interests are broadly in health economics and public economics. Currently, I am particularly interested in how firms make decisions about the health insurance they offer to workers. <br><br>
+  I will be joining Claremont McKenna College as an Assistant Professor of Economics in the fall. You&nbsp;can find my <a style="font-weight:bold" href="./Robinson_CV.pdf" target="_blank">CV&nbsp;here</a>.</p>
 </div>
 
 
