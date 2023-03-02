@@ -23,7 +23,7 @@ STYLE
 
 Original dinky code can be viewed at https://github.com/pages-themes/dinky/blob/master/_sass/jekyll-theme-dinky.scss
 
-Can update by adding things to ./assets/css/style.scss in TextEdit
+Can update by adding things to ./assets/css/style.scss
 
 Update sidebar in ./_layouts/default.html
 
