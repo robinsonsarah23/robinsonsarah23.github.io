@@ -44,6 +44,7 @@ label: home
 ## Resources
 Teaching Materials
 * <a href="./teaching/mathcamp">UCSB PhD Math Camp</a>
+* <a href="./teaching/134A Interest Rate Summary.pdf" target="_blank">UCSB 134A Interest Rate Summary</a> 
 
 Study Guides
 * <a href="./resources/210A Study Guide v39.pdf" target="_blank">UCSB ECON 210A PDF</a> \| <a href="./resources/210A v39.zip" download>LaTeX</a> &nbsp; (PhD&nbsp;1st&nbsp;Year&nbsp;Micro&nbsp;Fall -- Consumption &&nbsp;Production)  
