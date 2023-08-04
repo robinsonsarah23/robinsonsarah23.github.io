@@ -7,10 +7,9 @@ label: home
   <div class="profile">
     <img src="./assets/images/profile.jpg" alt="Profile Photo" width="235" height="275" style="margin:0; padding:0;"/>
   </div>
-  <p><br>I am a PhD Candidate in Economics at the University of California Santa Barbara. I will be joining Claremont McKenna College as an Assistant Professor of Economics in Fall 2023. <br><br>
-  My research interests are broadly in health economics and public economics. Currently, I am particularly interested in how firms make decisions about the health insurance they offer to workers. <br><br>
+  <p>I am an Assistant Professor of Economics at Claremont McKenna College. My research interests are in health economics and public economics. <br><br>
 
-  <img src="./assets/images/email.png" alt="" width="22" height="16"/> &nbsp; sarahrobinson@ucsb.edu <br>
+  <img src="./assets/images/email.png" alt="" width="22" height="16"/> &nbsp; sarah.robinson@claremontmckenna.edu <br>
   <img src="./assets/images/cv.png" alt="" width="22" height="22"/> &nbsp; <a style="font-weight:normal" href="./Robinson_CV.pdf" target="_blank">CV</a><br>
   <img src="./assets/images/twitter.png" alt="" width="22" height="18"/> &nbsp; <a href="https://twitter.com/RobinsonSarah_" target="_blank"> @RobinsonSarah_</a>
   </p>
@@ -32,7 +31,7 @@ label: home
 (Job Market Paper)
 > Fifty percent of the U.S. population gets health insurance through an employer, and roughly half of employers only offer one health plan. Therefore, the choices made by firms about what plan(s) to offer are critical to understanding the health insurance available to workers. This paper focuses on one dimension of the firm's decision: whether to self-fund plans (meaning the firm bears the financial risk of claims itself). I study whether firms use self-funding to avoid complying with mandates to cover specific procedures or providers. Using administrative data on the health plans offered by firms and a difference-in-differences design, I find that new mandates increase rates of self-funding among smaller firms (100-249 employees) by 3.2 percentage points, an increase of 14.5%. The mandates do not appear to affect larger firms (250+ employees), who are more likely to already be self-funded in the pre-period. These results imply that new mandates can lead to long-lasting reductions in the proportion of firms that are bound by any state health insurance regulations, including all previously mandated benefits as well as premium taxes. 
 
-<a style="font-weight:bold" href="./research/Robinson_Tazhitdinova_Tax_Policy_Determinants.pdf" target="_blank">"What Drives Tax Policy? Political and Economic Determinants of State Tax Policy"</a> with&nbsp;<a href="https://alisatns.weebly.com" target="_blank">Alisa&nbsp;Tazhitdinova</a> &mdash; <a href="https://www.nber.org/papers/w31268" target="_blank">NBER Working Paper 31268</a>
+<a style="font-weight:bold" href="./research/Robinson_Tazhitdinova_Tax_Policy_Determinants.pdf" target="_blank">"What Drives Tax Policy? Political, Institutional and Economic Determinants of State Tax Policy"</a> with&nbsp;<a href="https://alisatns.weebly.com" target="_blank">Alisa&nbsp;Tazhitdinova</a> &mdash; <a href="https://www.nber.org/papers/w31268" target="_blank">NBER Working Paper 31268</a>
 > We collect detailed data on U.S. state personal income, corporate, sales, cigarette, gasoline, and alcohol taxes over the past 70 years to shed light on the determinants of state tax policies. We provide a comprehensive summary of how tax policy has changed over time, within and across states. We then use permutation analysis, variance decomposition, and machine learning techniques to show that the timing and magnitude of tax changes are not driven by economic needs, state politics, institutional rules, neighbor competition, or demographics. Altogether, these factors explain less than 20% of observed tax variation.
 
 
@@ -44,8 +43,8 @@ label: home
 
 ## Resources
 Teaching Materials
-* <a href="./teaching/mathcamp">UCSB PhD Math Camp</a>
-* <a href="./teaching/134A Interest Rate Summary.pdf" target="_blank">UCSB 134A Interest Rate Summary</a> 
+* <a href="./teaching/mathcamp">UCSB ECON PhD Math Camp</a>
+* <a href="./teaching/134A Interest Rate Summary.pdf" target="_blank">UCSB ECON 134A Interest Rate Summary</a> 
 
 Study Guides
 * <a href="./resources/210A Study Guide v39.pdf" target="_blank">UCSB ECON 210A PDF</a> \| <a href="./resources/210A v39.zip" download>LaTeX</a> &nbsp; (PhD&nbsp;1st&nbsp;Year&nbsp;Micro&nbsp;Fall -- Consumption &&nbsp;Production)  
