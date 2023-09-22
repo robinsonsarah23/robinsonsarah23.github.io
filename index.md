@@ -18,14 +18,13 @@ label: home
 
 ## Publications
 
+<a style="font-weight:bold" href="./research/Robinson_Royer_Silver_CSection.pdf" target="_blank">"Geographic Variation in C-Sections in the United States: Trends, Correlates and Other Interesting Facts"</a> with&nbsp;<a href="https://sites.google.com/site/heathernroyer/" target="_blank">Heather&nbsp;Royer</a> and <a href="https://sites.google.com/site/silverdw/" target="_blank">David&nbsp;Silver</a>. **Conditionally Accepted,** ***Journal of Labor Economics.*** <br>
+
 <a style="font-weight:bold" href="./research/Slattery_Tazhitdinova_Robinson_Citizens_United.pdf" target="_blank">"Corporate Political Spending and State Tax Policy: Evidence from *Citizens United"*</a> with&nbsp;<a href="https://cailinslattery.com" target="_blank">Cailin&nbsp;Slattery</a> and <a href="https://alisatns.weebly.com" target="_blank">Alisa&nbsp;Tazhitdinova</a>. ***Journal of Public Economics,*** May 2023, Vol. 221, 104859. <br> <a href="https://doi.org/10.1016/j.jpubeco.2023.104859" target="_blank">[Publisher's Link]</a>&nbsp;&nbsp;<a href="https://www.nber.org/papers/w30352" target="_blank">[NBER Working Paper 30352]</a> <br>
 > Featured in: <a href="https://www.wsj.com/articles/citizens-united-bought-nothing-state-tax-policy-nber-study-supreme-court-11660850148" target="_blank">Wall Street Journal</a>, <a href="https://corpgov.law.harvard.edu/2022/08/31/corporate-political-spending-and-state-tax-policy-evidence-from-citizens-united/" target="_blank">Harvard Law School Forum on Corporate Governance </a> <br>
 
 
 ## Working Papers
-
-<a style="font-weight:bold" href="./research/Robinson_Royer_Silver_CSection.pdf" target="_blank">"Geographic Variation in C-Sections in the United States: Trends, Correlates and Other Interesting Facts"</a> with&nbsp;<a href="https://sites.google.com/site/heathernroyer/" target="_blank">Heather&nbsp;Royer</a> and <a href="https://sites.google.com/site/silverdw/" target="_blank">David&nbsp;Silver</a> &mdash; **Conditionally Accepted,** ***Journal of Labor Economics***
-> We use U.S. natality data from 1989 to 2017 to investigate county-level geographic disparities in the use of C&#8209;section among ﬁrst-birth singleton mothers. We document the existence and persistence of geographic variation in C&#8209;section across low and high- C&#8209;section risk mothers, the degree to which this variation correlates with Medicare spending, and the sensitivity of C&#8209;section use and infant and maternal health outcomes to C&#8209;section risk across counties. Our key ﬁnding is that counties with high C&#8209;section rates perform more C&#8209;sections across the entirety of the risk distribution yet have nearly equivalent or better outcomes than counties with less intensive C&#8209;section rates.
 
 <a style="font-weight:bold" href="./Robinson_JMP.pdf" target="_blank">"Do Firms Avoid Health Insurance Mandates? Evidence from the Self-Funding of Employer Plans"</a><br>
 (Job Market Paper)
