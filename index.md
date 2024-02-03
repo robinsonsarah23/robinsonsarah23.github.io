@@ -30,6 +30,9 @@ label: home
 (Job Market Paper)
 > Fifty percent of the U.S. population gets health insurance through an employer, and roughly half of employers only offer one health plan. Therefore, the choices made by firms about what plan(s) to offer are critical to understanding the health insurance available to workers. This paper focuses on one dimension of the firm's decision: whether to self-fund plans (meaning the firm bears the financial risk of claims itself). I study whether firms use self-funding to avoid complying with mandates to cover specific procedures or providers. Using administrative data on the health plans offered by firms and a difference-in-differences design, I find that new mandates increase rates of self-funding among smaller firms (100-249 employees) by 3.2 percentage points, an increase of 14.5%. The mandates do not appear to affect larger firms (250+ employees), who are more likely to already be self-funded in the pre-period. These results imply that new mandates can lead to long-lasting reductions in the proportion of firms that are bound by any state health insurance regulations, including all previously mandated benefits as well as premium taxes. 
 
+<a style="font-weight:bold" href="./research/Robinson_Tazhitdinova_100_Years.pdf" target="_blank">"One Hundred Years of U.S. State Taxation"</a> with&nbsp;<a href="https://alisatns.weebly.com" target="_blank">Alisa&nbsp;Tazhitdinova</a>
+> We analyze the evolution of U.S. state tax rates since 1910 and state tax revenues since 1942. Our analysis demonstrates that, in aggregate, state tax policies are stable in many aspects. They exhibit similar levels of tax rate variation, personal and corporate income tax progressivity, and tax change frequency and simultaneity over time. These aggregate patterns hold despite the fact that tax policies exhibit a large degree of variability both across states and within each state over time. Furthermore, state tax policy is not very persistent -- the set of states with relatively high tax rates or large tax changes evolves rapidly. We do not observe a consistent relationship between state and federal tax policies, and show that the relationship between tax rates and revenues varies by tax type and over time.
+
 <a style="font-weight:bold" href="./research/Robinson_Tazhitdinova_Tax_Policy_Determinants.pdf" target="_blank">"What Drives Tax Policy? Political, Institutional and Economic Determinants of State Tax Policy"</a> with&nbsp;<a href="https://alisatns.weebly.com" target="_blank">Alisa&nbsp;Tazhitdinova</a> &mdash; <a href="https://www.nber.org/papers/w31268" target="_blank">NBER Working Paper 31268</a>
 > We collect detailed data on U.S. state personal income, corporate, sales, cigarette, gasoline, and alcohol taxes over the past 70 years to shed light on the determinants of state tax policies. We provide a comprehensive summary of how tax policy has changed over time, within and across states. We then use permutation analysis, variance decomposition, and machine learning techniques to show that the timing and magnitude of tax changes are not driven by economic needs, state politics, institutional rules, neighbor competition, or demographics. Altogether, these factors explain less than 20% of observed tax variation.
 
@@ -37,8 +40,6 @@ label: home
 ## Work in Progress
 
 "Employer Choice of Health Insurance Plans and Premium&nbsp;Sharing" *(approved FSRDC project)*
-
-"One Hundred Years of Taxation" with&nbsp;<a href="https://alisatns.weebly.com" target="_blank">Alisa&nbsp;Tazhitdinova</a>
 
 "Do Taxes Affect Pre-Tax Income Inequality?" with&nbsp;Matías&nbsp;Strehl&nbsp;Pessina and <a href="https://alisatns.weebly.com" target="_blank">Alisa&nbsp;Tazhitdinova</a>
 
